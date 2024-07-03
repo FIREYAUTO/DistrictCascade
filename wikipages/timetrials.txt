@@ -24,7 +24,8 @@ FinalXP = floor(XP)
 
 {sv:Easy} {(c:1ccf5a)Easy}
 {sv:Intermediate} {(c:fccd1c)Intermediate}
-{sv:Hard} {(c:df1c4a)Hard}
+{sv:Hard} {(c:ff7c2a)Hard}
+{sv:Advanced} {(c:df3c6a)Advanced}
 {sv:Challenging} {(c:6a1c2a)Challenging}
 {sv:Elite} {(c:1cff7a)Elite}
 
@@ -369,16 +370,67 @@ FinalXP = floor(XP)
 | XP: 100 - 1000
 | Time: 30s
 
-### Through The Link ({v:Hard})
+### Heights ({v:Hard})
 | XP: 50 - 500
-| Time: 20s
-| Required Gear: **Dasher**
+| Time: 40s
+| Required Gear: **Claws**
+| Type: Default
 
 ### Weaving ({v:Hard})
 | XP: 50 - 500
 | Time: 30s
 
-### Easy Time Trial ({v:Easy})
-| XP: 30 - 300
+### Upper-Boost ({v:Hard})
+| XP: 40 - 400
+| Time: 20s
+
+### The Escape ({v:Intermediate})
+| XP: 25 - 250
 | Time: 30s
-| Required Gear: **Refractralizer**
+| Type: Escape
+
+### Your Own Way ({v:Hard})
+| XP: 50 - 500
+| Time: 50s
+| Type: Escape
+
+### Any Slope ({v:Intermediate})
+| XP: 20 - 200
+| Time: 25s
+| Type: Escape
+
+### Wall-Dodge ({v:Hard})
+| XP: 40 - 400
+| Time: 25s
+| Type: Escape
+
+### Route Escape ({v:Challenging})
+| XP: 60 - 600
+| Time: 30s
+| Type: Escape
+
+### Scaffold ({v:Advanced})
+| XP: 80 - 800
+| Time: 45s
+| Type: Default
+
+### Destiny ({v:Elite})
+| XP: 250 - 2500
+| Time: 60s
+| Type: Default
+
+### Powerhop ({v:Advanced})
+| XP: 80 - 800
+| Time: 60s
+| Type: Default
+
+### Through the Valley ({v:Hard})
+| XP: 50 - 500
+| Time: 45s
+| Type: Escape
+
+### Kaboom ({v:Intermediate})
+| XP: 30 - 300
+| Time: 15s
+| Required Gear: **Dasher**
+| Type: Default
