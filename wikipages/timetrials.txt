@@ -33,6 +33,7 @@ FinalXP = floor(XP)
 ^ {v:Easy}
 ^ {v:Intermediate}
 ^ {v:Hard}
+^ {v:Advanced}
 ^ {v:Challenging}
 ^ {v:Elite}
 
