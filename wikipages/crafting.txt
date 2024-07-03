@@ -28,6 +28,11 @@ Recipe 4
 Water Bottle (1) [CONSUMED]
 ```
 
+Recipe 5
+```
+Coil (1) [CONSUMED]
+```
+
 ## A-Grade Flux
 Recipe 1
 ```
@@ -50,10 +55,20 @@ Recipe 2
 C-Grade Flux (3) [CONSUMED]
 ```
 
+Recipe 3
+```
+A-Grade Flux (1) [CONSUMED]
+```
+
 ## C-Grade Flux
 Recipe 1
 ```
 10m Generator Shield (1) [CONSUMED]
+```
+
+Recipe 2
+```
+B-Grade Flux (1) [CONSUMED]
 ```
 
 ## Meteorite Bar
@@ -79,6 +94,13 @@ Plastic (6) [CONSUMED]
 Recipe 1
 ```
 Phone (1) [CONSUMED]
+```
+
+## Wiring
+Recipe 1
+```
+Conductive Tubing (1) [CONSUMED]
+Chisel (1) [NOT CONSUMED]
 ```
 
 {hr}
@@ -115,12 +137,22 @@ C-Grade Flux (1) [CONSUMED]
 Hammer (1) [NOT CONSUMED]
 ```
 
+Recipe 2
+```
+30m Generator Shield (1) [CONSUMED]
+```
+
 ## 30m Generator Shield
 Recipe 1
 ```
 Metal Plate (9) [CONSUMED]
 B-Grade Flux (1) [CONSUMED]
 Hammer (1) [NOT CONSUMED]
+```
+
+Recipe 2
+```
+1hr Generator Shield (1) [CONSUMED]
 ```
 
 ## 1hr Generator Shield
@@ -137,6 +169,8 @@ Recipe 1
 Metal Plate (1) [CONSUMED]
 Metal Rod (2) [CONSUMED]
 ```
+
+
 
 ## Neon Workbench
 ## Surface Deflector
@@ -206,6 +240,21 @@ Conductive Tubing (4) [CONSUMED]
 Core of Cascade (1) [CONSUMED]
 ```
 
+## Air Thruster
+Recipe 1
+```
+Hammer (1) [NOT CONSUMED]
+Metal Plate (3) [CONSUMED]
+Gear Drive (1) [CONSUMED]
+Gear Frame (1) [CONSUMED]
+B-Grade Flux (1) [CONSUMED]
+Metal Rod (3) [CONSUMED]
+Coil (2) [CONSUMED]
+Glass (3) [CONSUMED]
+```
+
+
+
 ## GearSkin Workbench
 ## Bloody's Slinger 2.0
 Recipe 1
@@ -215,6 +264,8 @@ Metal Plate (12) [CONSUMED]
 Meteorite Bar (2) [CONSUMED]
 Bloody's Slinger (1) [CONSUMED]
 ```
+
+
 
 ## Utility Workbench
 ## Delivery Pack
@@ -256,4 +307,22 @@ Plastic (3) [CONSUMED]
 Note Decrypter (1) [CONSUMED]
 Conductive Tubing (4) [CONSUMED]
 B-Grade Flux (1) [CONSUMED]
+```
+
+## Lucky Orb
+Recipe 1
+```
+Resistance Gem (1) [CONSUMED]
+```
+
+## Remote CV-Terminal
+Recipe 1
+```
+Metal Plate (6) [CONSUMED]
+Metal Rod (4) [CONSUMED]
+Wiring (9) [CONSUMED]
+Glass (3) [CONSUMED]
+Plastic (3) [CONSUMED]
+Runner Network Chip (1) [CONSUMED]
+Hammer (1) [NOT CONSUMED]
 ```
