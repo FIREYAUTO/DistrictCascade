@@ -139,3 +139,15 @@ Holding your leg gear keybind freezes you in-place, and the longer you hold it t
 ```
 Passive gear; if you turn while jumping/edge-jumping while also holding the correct directional keys you will gain more speed
 ```
+## Air Thruster {(tag:1caf7a)Active}
+| Requires "Air Thruster" Gears
+| Description:
+```
+Using your leg gear keybind will activate this gear, causing you to peform a double jump
+```
+## Trajection Boots {(tag:df1c4a)Passive}
+| Requires Level <b>80</b>
+| Description:
+```
+Upon jumping after landing, most of your falling velocity will be converted into vertical velocity
+```
