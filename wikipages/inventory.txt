@@ -18,3 +18,4 @@ Clicking on items in your inventory would open a bigger ui element on the right,
 ^ Gear Mods
 ^ Equippables
 ^ Materials ({(cn:green)TRADEABLE})
+^ Cores

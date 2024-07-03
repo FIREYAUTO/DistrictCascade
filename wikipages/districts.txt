@@ -29,10 +29,10 @@ ex: D1 is 2x2 units (4 units total)
 ### {(c:ff1c4a)D2 - Downtown}
 | {v:DM} 1.5x
 
-### {(c:0d73ff)D3 - City}
+### {(c:0d73ff)D3 - Futura}
 | {v:DM} 1.5x
 
-### {(c:a60dff)D4 - Drop-Off}
+### {(c:a60dff)D4 - Skyfall}
 | {v:DM} 2x
 
 ### {(c:ff730d)D5 - Runner}
@@ -47,7 +47,7 @@ ex: D1 is 2x2 units (4 units total)
 ### {(c:0606ab)D8 - Neon}
 | {v:DM} 3x
 
-### {(c:911c1c)D9 - Surveillance}
+### {(c:911c1c)D9 - CRA Secure Zone}
 | {v:DM} 1.5x
 
 ### {(c:ff569b)D10 - Skyline}
@@ -59,26 +59,26 @@ ex: D1 is 2x2 units (4 units total)
 ### {(c:00749b)D12 - Arch}
 | {v:DM} 2.5x
 
-### {(c:2b48ff)D13 - Scattered}
+### {(c:2b48ff)D13 - Deadzone}
 | {v:DM} 2.5x
 
-### {(c:229026)D14 - Fragment}
+### {(c:229026)D14 - Quantum Gardens}
 | {v:DM} 1x
 
 ### {(c:296449)D15 - Garden}
 | {v:DM} 2.5x
 
-### {(c:ff9b34)D16 - Fractured}
+### {(c:ff9b34)D16 - Nexus}
 | {v:DM} 1x
 
-### {(c:452964)D17 - Cliff-Side}
+### {(c:452964)D17 - Nytra}
 | {v:DM} 1x
 
-### {(c:b69de1)D18 - Trenches}
+### {(c:b69de1)D18 - Flow}
 | {v:DM} 1x
 
-### {(c:004076)D19 - Dense}
+### {(c:004076)D19 - Cyber}
 | {v:DM} 1x
 
-### {(c:8dff27)D20 - Limit}
+### {(c:8dff27)D20 - Infinity Sector}
 | {v:DM} 1x

@@ -3,7 +3,8 @@ Shops are placed in specific locations throughout the map. Every shop has a shop
 # List of Shops & Shop Items
 ## The Shop
 | Located in D1
-### Skin Crates
+### Regular Items
+#### Skin Crates
 ```
 Arm Gear Skin Crate ({rprice:{cr}:10})
 Leg Gear Skin Crate ({rprice:{cr}:10})
@@ -11,15 +12,22 @@ Back Gear Skin Crate ({rprice:{cr}:10})
 Cosmetic Gear Skin Crate ({rprice:{cr}:10})
 Left Arm Gear Skin Crate ({rprice:{cr}:10})
 ```
-### XP Boosters
+#### XP Boosters
 ```
 +0.5x : 15m XP Booster ({rprice:{cr}:10})
+```
+### Daily Items
+#### XP Boosters
+```
++0.5x : 1hr XP Booster ({rprice:{cr}:15})
++0.5x : 4hr XP Booster ({rprice:{cr}:65})
 ```
 {hr}
 
 ## Edge Shop
 | Located in D7
-### Skin Crates
+### Regular Items
+#### Skin Crates
 ```
 Arm Gear Skin Crate ({rprice:{cr}:10})
 Leg Gear Skin Crate ({rprice:{cr}:10})
@@ -28,41 +36,45 @@ Cosmetic Gear Skin Crate ({rprice:{cr}:10})
 Epic Skin Crate ({rprice:{cr}:25})
 Left Arm Gear Skin Crate ({rprice:{cr}:10})
 ```
-### XP Boosters
+#### XP Boosters
 ```
 +0.5x : 15m XP Booster ({rprice:{cr}:10})
 +0.5x : 1hr XP Booster ({rprice:{cr}:30})
 ```
-### Materials
+#### Materials
 ```
 Gear Scrap ({rprice:{cr}:15})
 Conductive Tubing ({rprice:{cr}:7})
 ```
+### Daily Items
 {hr}
 
 ## Neon Shop
 | Located in D8
-### Skin Crates
+### Regular Items
+#### Skin Crates
 ```
 Arm Gear Skin Crate ({rprice:{cr}:10})
 Leg Gear Skin Crate ({rprice:{cr}:10})
 Back Gear Skin Crate ({rprice:{cr}:10})
 Cosmetic Gear Skin Crate ({rprice:{cr}:10})
 Epic Skin Crate ({rprice:{cr}:25})
-Legendary Skin Crate ({rprice:{cr}:40})
+Legendary Skin Crate ({rprice:{cr}:50})
 Left Arm Gear Skin Crate ({rprice:{cr}:10})
 ```
-### XP Boosters
+#### XP Boosters
 ```
 +0.5x : 15m XP Booster ({rprice:{cr}:10})
 +0.5x : 1hr XP Booster ({rprice:{cr}:30})
 +0.5x : 4hr XP Booster ({rprice:{cr}:100})
 ```
+### Daily Items
 {hr}
 
 ## Gear Shop
 | Located in D1
-### Gears
+### Regular Items
+#### Gears
 ```
 XP Bracelet ({rprice:{cr}:250})
 Combo Bracelet ({rprice:{cr}:250})
@@ -70,7 +82,7 @@ Shield Bracelet ({rprice:{cr}:400})
 Weight Pack ({rprice:{cr}:20})
 Speed Bracelet ({rprice:{cr}:300})
 ```
-### Gear Mods
+#### Gear Mods
 ```
 Slinger Insta-Pull ({rprice:{cr}:30})
 Repellant Redirection ({rprice:{cr}:30})
@@ -90,16 +102,71 @@ Slingshot Overclock ({rprice:{cr}:30})
 Fins Glide ({rprice:{cr}:50})
 Swinger Yank ({rprice:{cr}:50})
 Slinger Insta-Yank ({rprice:{cr}:50})
+Health Shot Health Boost ({rprice:{cr}:45})
+Swinger Realism ({rprice:{cr}:10})
+Swinger Realism+Yank ({rprice:{cr}:60})
 ```
+### Daily Items
 {hr}
 
 ## Special Shop
 | Located in D13
-### Equippables
+### Regular Items
+#### Equippables
 ```
 Object Locator ({rprice:{cr}:50})
+Hackable Hacker ({rprice:{cr}:100})
+Runner Network Chip ({rprice:{cr}:350})
 ```
-### Junk
+#### Junk
 ```
 Hammer ({rprice:{cr}:15})
+```
+#### Cores
+```
+Core: Longevity ({rprice:{cr}:300})
+Core: Resistance ({rprice:{cr}:300})
+```
+### Daily Items
+#### Junk
+```
+Meteorite ({rprice:{cr}:45})
+Broken Rope Slinger ({rprice:{cr}:15})
+Broken Dasher ({rprice:{cr}:15})
+Broken Claws ({rprice:{cr}:15})
+```
+#### Generator Shields
+```
+10m Generator Shield ({rprice:{cr}:20})
+```
+{hr}
+
+## CRA Shop
+| Located in D9
+### Regular Items
+### Daily Items
+#### XP Boosters
+```
++0.5x : 15m XP Booster ({rprice:{cr}:5})
++0.5x : 1hr XP Booster ({rprice:{cr}:15})
++0.5x : 4hr XP Booster ({rprice:{cr}:50})
+```
+#### Equippables
+```
+Object Locator ({rprice:{cr}:30})
+Hackable Hacker ({rprice:{cr}:75})
+Runner Network Chip ({rprice:{cr}:250})
+```
+#### Generator Shields
+```
+10m Generator Shield ({rprice:{cr}:16})
+```
+#### Junk
+```
+Meteorite ({rprice:{cr}:35})
+Broken Rope Slinger ({rprice:{cr}:12})
+Broken Dasher ({rprice:{cr}:12})
+Broken Claws ({rprice:{cr}:12})
+Empty Bottle ({rprice:{cr}:7})
+Phone ({rprice:{cr}:7})
 ```

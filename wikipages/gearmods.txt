@@ -135,3 +135,24 @@ Fins fuel will deplete based on time rather than speed
 ```
 Your slinger will yank you instantly rather than pull you towards the location
 ```
+{hr}
+## Health Shot Health Boost ({rc:Rare})
+| Gear: HealthShot (Leg Gear)
+| Description:
+```
+Health Shot will heal for more health, at the cost of a longer cooldown
+```
+{hr}
+## Swinger Realism ({rc:Common})
+| Gear: RopeSwinger (Arm Gear)
+| Description:
+```
+Rope Swinger will try to swing in a realisticish way
+```
+{hr}
+## Swinger Realism+Yank ({rc:Epic})
+| Gear: RopeSwinger (Arm Gear)
+| Description:
+```
+Combines Swinger Realism & Swinger Yank gear mods
+```

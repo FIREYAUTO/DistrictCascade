@@ -25,6 +25,9 @@ Balloon Dasher ({rc:Epic})
 | Designers: @adamekcz1122
 Glitch Dasher ({rc:Exclusive})
 | Description: Glitched, but it somehow still works
+Karmas Dasher ({rc:Mythical})
+| Description: An extremely powerful modified dasher built for space travel... if you can get that high
+| Designers: @TLK_KARMA2000
 ```
 {hr}
 ## Magnetizer
@@ -36,6 +39,7 @@ Crystalizer ({rc:Mythical})
 | Description: Oddly satisfying
 Shard Diffractor ({rc:Legendary})
 | Designers: @35DEIVAI
+Blue Magnetizer ({rc:Rare})
 ```
 {hr}
 ## Rope Swinger
@@ -45,6 +49,9 @@ Golden Rope Swinger ({rc:Rare})
 | Description: Well, I suppose this comes from my old console!
 | Designers: @SherismaTheSergal
 Ghost Swinger ({rc:Mythical})
+Pirate Swinger ({rc:Epic})
+| Description: YAARRRGGHH
+| Designers: @mrkittycat13
 ```
 {hr}
 ## Rope Slinger
@@ -73,6 +80,9 @@ Bloody's Slinger 2.0 ({rc:Exotic})
 Hellslinger ({rc:Legendary})
 | Description: Legend says this was a powerful relic of a lost time
 | Designers: @r5styy
+DIY Slinger ({rc:Epic})
+| Description: Batteries Not Included
+| Designers: @mrkittycat13
 ```
 {hr}
 ## Charge Gauntlet
@@ -147,6 +157,9 @@ Confetti Launcher ({rc:Rare})
 | Description: WARNING: Do NOT point at people around you!
 | Season: 1MEvent
 | Designers: @adamekcz1122
+Snowball Launcher ({rc:Common})
+| Description: Snowball fight!
+| Season: Christmas
 ```
 {hr}
 ## Turbines
@@ -206,6 +219,16 @@ Spring Capsule ({rc:Epic})
 Purple Surface Deflector ({rc:Common})
 ```
 {hr}
+## Refractralizer
+```
+Kitty's Refract ({rc:Mythical})
+| Description: Great for impersonating staff!
+| Designers: @mrkittycat13
+District Says ({rc:Legendary})
+| Description: I LOVE DISTRICT SAYS, for legal reasons I can't say simon. By the way I broke the yellow button, my bad
+| Designers: @mrkittycat13
+```
+{hr}
 ## Dasher Enhancer
 ```
 Dasher Enhancer X02 ({rc:Uncommon})
@@ -242,6 +265,9 @@ Golden Control Plate ({rc:Uncommon})
 All-Natural Control Plate ({rc:Epic})
 Control Plate Frame ({rc:Legendary})
 | Designers: @35DEIVAI
+Shady Generator ({rc:Legendary})
+| Description: A control plate that's based on deisel power, I'm sure a lot a of thought went into user safety!
+| Designers: @OverwhelmingDistress
 ```
 {hr}
 ## Springboard Deployer
@@ -295,6 +321,9 @@ Bloody's Turbine ({rc:Legendary})
 | Description: Like a washing machine, but for blood
 | Designers: @bloodied_net
 Golden Slinger Booster ({rc:Rare})
+Car Battery ({rc:Epic})
+| Description: For when times are tough and you need a little extra juice
+| Designers: @mrkittycat13
 ```
 {hr}
 ## Downwards Charger
@@ -328,6 +357,8 @@ Tome of a Million ({rc:Rare})
 | Description: "Wow, thats a lot of words, Good thing I'm not reading them." -nuke dukem or something idk
 | Season: 1MEvent
 | Designers: @bloodied_net
+Drone Attachment ({rc:Exclusive})
+| Description: Did you weld a drone to your back!?
 ```
 {hr}
 ## Pusher
@@ -349,6 +380,16 @@ Disrupt_R ({rc:Exotic})
 ## Induction Thruster
 ```
 Golden Induction Thruster ({rc:Rare})
+```
+{hr}
+## Roll Converter
+```
+Refract Converter ({rc:Epic})
+| Description: Uses the Refractralizer technology to boost your speed after rolling!
+| Designers: @adamekcz1122
+Kitty's Converter ({rc:Mythical})
+| Description: Great for impersonating staff!
+| Designers: @mrkittycat13
 ```
 {hr}
 ## Battery Pack
@@ -385,6 +426,9 @@ Golden Slinger Coil ({rc:Rare})
 Relic Brace ({rc:Epic})
 | Description: An ancient brace found at the deep jungle, it is told that it can empower the dove's wip
 | Designers: @pigeon_pogi
+CO2 Holster ({rc:Epic})
+| Description: Extra CO2 for your DIY project, one may be empty
+| Designers: @mrkittycat13
 ```
 {hr}
 ## Swinger Pouch
@@ -423,6 +467,12 @@ Firecracker Mishap ({rc:Epic})
 | Description: Didn't your parents warn you not to play with firecrackers? Apparently the explosions from these firecrackers provide the same propulsion as a high-powered rocket?
 | Season: July4th
 | Designers: @bloodied_net
+Refract Propeller ({rc:Legendary})
+| Description: Uses the Refractralizer technology to speed up your sliding!
+| Designers: @adamekcz1122
+Kitty's Propeller ({rc:Mythical})
+| Description: Great for impersonating staff!
+| Designers: @mrkittycat13
 ```
 {hr}
 ## Health Shot
@@ -438,6 +488,9 @@ Purple Health Shot ({rc:Rare})
 Golden Impact Distributor ({rc:Rare})
 Leg Brace ({rc:Rare})
 | Designers: @SolsticeThatPhoenix & @VioletTrap87
+Wyvern Claws ({rc:Legendary})
+| Description: Wyverns as an animal have constantly evolved to be able to land extremely quick, this gear in designed to replicate their specially evolved landing, just a little less gracefully.
+| Designers: @OverwhelmingDistress
 ```
 {hr}
 ## Padded Shoes
@@ -541,6 +594,12 @@ A Pumpkin :3 ({rc:Common})
 Lava's Cat ({rc:Exclusive})
 | Description: meow :3
 | Designers: @ImaginativeLA
+Jolly Snowman ({rc:Common})
+| Description: Festive cheer 99.9% guaranteed! (no refunds)
+| Season: Christmas
+Karma's Aura ({rc:Exclusive})
+| Description: Karma's exclusive skin, as a request from my commission to them
+| Designers: @TLK_KARMA2000
 ```
 {hr}
 ## Bar Lights
