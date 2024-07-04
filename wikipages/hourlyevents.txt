@@ -2,7 +2,7 @@ An hourly event will happen every 1 hour. Every hourly event in-game will give r
 
 ## List of Hourly Events
 ^ Race
-| The Race event will teleport all players to a random location in a set of given locations, and will have all players race against each other. It's like a {{timetrials:time-trial}} but it includes all players.
+| The Race event will teleport all players to a random location in a set of given locations, and will have all players race against each other. It's like a {{timetrials:time-trial}} but it includes all players that choose to participate in the race.
 | Rewards:
 ```
 1st Place: Mythical Skin Crate
