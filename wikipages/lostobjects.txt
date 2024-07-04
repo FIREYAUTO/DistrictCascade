@@ -21,7 +21,7 @@ XP *= 1+M
 As you can see, the higher the tier of the lost object (aka higher spawn rarity), the more XP it will give you.
 
 # List of Lost Object Spawns
-## Default
+### Default
 #### {rc:Common} (55%)
 ```
 District-Cola
@@ -31,30 +31,31 @@ Water Bottle
 ```
 #### {rc:Uncommon} (25%)
 ```
-Phone
-Note Decrypter
+Hammer
 Gear Upgrade Kit
+Note Decrypter
+Phone
 ```
 #### {rc:Rare} (15%)
 ```
-Broken Rope Slinger
-Broken Claws
-Broken Dasher
 +0.5x : 15m XP Booster
 10m Generator Shield
+Broken Claws
+Broken Dasher
+Broken Rope Slinger
 Object Locator
 ```
 #### {rc:Legendary} (4%)
 ```
++1x : 15m XP Booster
++0.5x : 1hr XP Booster
+30m Generator Shield
 Arm Gear Skin Crate
-Leg Gear Skin Crate
 Back Gear Skin Crate
 Cosmetic Gear Skin Crate
-+0.5x : 1hr XP Booster
-Meteorite
-+1x : 15m XP Booster
 Left Arm Gear Skin Crate
-30m Generator Shield
+Leg Gear Skin Crate
+Meteorite
 ```
 #### {rc:Mythical} (1%)
 ```
@@ -62,8 +63,8 @@ Left Arm Gear Skin Crate
 +1x : 1hr XP Booster
 1hr Generator Shield
 ```
-{hr}
-## July4th
+
+### July4th
 #### {rc:Common} (85%)
 ```
 4th of July Skin Crate
@@ -71,54 +72,101 @@ Left Arm Gear Skin Crate
 #### {rc:Rare} (15%)
 ```
 +1x : 15m XP Booster
+Hammer
 ```
-{hr}
-## 1MEvent
+
+### 1MEvent
 #### {rc:Common} (65%)
 ```
 1M Event Skin Crate
 ```
 #### {rc:Uncommon} (20%)
 ```
-Note Decrypter
-10m Generator Shield
 +0.5x : 15m XP Booster
+10m Generator Shield
+District-Cola
+District Orange Soda
+Empty Bottle
+Gear Upgrade Kit
+Hammer
+Note Decrypter
+Phone
+Water Bottle
 ```
 #### {rc:Rare} (12%)
 ```
-30m Generator Shield
-+1x : 15m XP Booster
 +0.5x : 1hr XP Booster
++1x : 15m XP Booster
+30m Generator Shield
+Object Locator
 ```
 #### {rc:Legendary} (3%)
 ```
-1hr Generator Shield
 +0.5x : 4hr XP Booster
+1hr Generator Shield
 +1x : 1hr XP Booster
 ```
-{hr}
-## Halloween
+
+### Halloween
 #### {rc:Common} (65%)
 ```
 Halloween Skin Bag
 ```
 #### {rc:Uncommon} (20%)
 ```
-Note Decrypter
-10m Generator Shield
 +0.5x : 15m XP Booster
+10m Generator Shield
+District-Cola
+District Orange Soda
+Empty Bottle
+Water Bottle
+Hammer
 Gear Upgrade Kit
+Note Decrypter
+Phone
 ```
 #### {rc:Rare} (12%)
 ```
-30m Generator Shield
 +1x : 15m XP Booster
 +0.5x : 1hr XP Booster
+30m Generator Shield
 Object Locator
 ```
 #### {rc:Legendary} (3%)
 ```
-1hr Generator Shield
 +0.5x : 4hr XP Booster
 +1x : 1hr XP Booster
+1hr Generator Shield
+```
+
+### Christmas
+#### {rc:Common} (65%)
+```
+Christmas Present
+```
+#### {rc:Uncommon} (20%)
+```
++0.5x : 15m XP Booster
+10m Generator Shield
+District-Cola
+District Orange Soda
+Empty Bottle
+Gear Upgrade Kit
+Hammer
+Note Decrypter
+Phone
+Water Bottle
+```
+#### {rc:Rare} (12%)
+```
++0.5x : 1hr XP Booster
++1x : 15m XP Booster
+30m Generator Shield
+Object Locator
+```
+#### {rc:Legendary} (3%)
+```
++0.5x : 4hr XP Booster
++1x : 1hr XP Booster
+1hr Generator Shield
 ```
