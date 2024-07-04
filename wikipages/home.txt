@@ -11,9 +11,11 @@ District Cascade is a sci-fi free-running fast-paced parkour game on the Roblox 
 ^ {(l:Twitter)https://twitter.com/DistrictCascade}
 ^ {(l:YouTube)https://youtube.com/channel/UCwzgu5O7_Ec6l13sGyV6AGw}
 
+## Help Wanted
+Missing content? Contact me on discord (@fireyauto), and I will try my best to implement it into the wiki.
+My CSS skills are absolute garbage, so if you would like to fork this repo and help out with the CSS issues, I'll be more than happen to pull it to the main branch.
 
-
-
+**As a reminder, this is THE OFFICIAL wiki for District Cascade, maintained and created by the owner of the game**
 
 
 
