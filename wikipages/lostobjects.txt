@@ -21,7 +21,7 @@ XP *= 1+M
 As you can see, the higher the tier of the lost object (aka higher spawn rarity), the more XP it will give you.
 
 # List of Lost Object Spawns
-### Default
+## Default
 #### {rc:Common} (55%)
 ```
 District-Cola
@@ -64,7 +64,7 @@ Meteorite
 1hr Generator Shield
 ```
 
-### July4th
+## July4th
 #### {rc:Common} (85%)
 ```
 4th of July Skin Crate
@@ -75,7 +75,7 @@ Meteorite
 Hammer
 ```
 
-### 1MEvent
+## 1MEvent
 #### {rc:Common} (65%)
 ```
 1M Event Skin Crate
@@ -107,7 +107,7 @@ Object Locator
 +1x : 1hr XP Booster
 ```
 
-### Halloween
+## Halloween
 #### {rc:Common} (65%)
 ```
 Halloween Skin Bag
@@ -139,7 +139,7 @@ Object Locator
 1hr Generator Shield
 ```
 
-### Christmas
+## Christmas
 #### {rc:Common} (65%)
 ```
 Christmas Present
