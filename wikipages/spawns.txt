@@ -3,13 +3,14 @@ Each district has its own set of spawns. You have to unlock spawns by finding th
 In total, there are around 60 spawns in the game at the moment.
 
 ## Spawns
-### {(c:1cdf6a)D1 - Main-Square} (6)
+### {(c:1cdf6a)D1 - Main-Square} (7)
 | Spawn (0 XP)
 | Downtown (1000 XP)
 | Platforms (750 XP)
 | Factory (750 XP)
 | Scary Heights (5000 XP)
 | Cliff-Side Tower (15000 XP)
+| Huh?? (50000 XP)
 
 ### {(c:ff1c4a)D2 - Downtown} (5)
 | Central (2000 XP)
@@ -18,13 +19,13 @@ In total, there are around 60 spawns in the game at the moment.
 | Ridge Tower (25000 XP)
 | Cityside (5000 XP)
 
-### {(c:0d73ff)D3 - City} (4)
+### {(c:0d73ff)D3 - Futura} (4)
 | City High-Rise (6000 XP)
 | Slopes (4000 XP)
 | The (5000 XP)
 | Low Point (4000 XP)
 
-### {(c:a60dff)D4 - Drop-Off} (7)
+### {(c:a60dff)D4 - Skyfall} (7)
 | Peak (8000 XP)
 | Lowest Point (5000 XP)
 | Watch-Guard (5000 XP)
@@ -60,7 +61,7 @@ In total, there are around 60 spawns in the game at the moment.
 | Enclosed (10000 XP)
 | Rich (10000 XP)
 
-### {(c:911c1c)D9 - Surveillance} (1)
+### {(c:911c1c)D9 - CRA Secure Zone} (1)
 | The CRA (3500 XP)
 
 ### {(c:ff569b)D10 - Skyline} (6)
@@ -82,7 +83,7 @@ In total, there are around 60 spawns in the game at the moment.
 | Arch-City (6000 XP)
 | Archview (6000 XP)
 
-### {(c:2b48ff)D13 - Scattered} (5)
+### {(c:2b48ff)D13 - Deadzone} (5)
 | Fortress (6000 XP)
 | Rooftops (5000 XP)
 | Opportunity (5500 XP)
