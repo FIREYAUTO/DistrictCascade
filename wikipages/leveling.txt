@@ -12,7 +12,7 @@ Level to MaxXP: floor((((1.6*Level)^2.3)/2)+1000)
 ```
 
 ## Level Rewards
-Level rewards are unlocked by reaching a specific level. You are can only obtain level rewards once.
+Level rewards are unlocked by reaching a specific level. You can only obtain level rewards once.
 ### List
 | **Level 25**
 ```
