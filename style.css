@@ -128,19 +128,20 @@ h1,h2,h3,h4,h5,h6 {
 
 #list {
     height:80vh;
+    width:20vw;
     border:2px solid var(--light-bg-color);
     border-radius:8px;
-    float:left;
+    /*float:left;*/
     padding-top:10px;
     padding-bottom:10px;
-    position:relative;
     overflow: auto;
+    display:inline-block;
     z-index: 1;
 }
 
 #list::-webkit-scrollbar {
     display: none; /*Webkit support*/
-  }
+}
 
 #list {
     -ms-overflow-style: none;  /* IE and Edge support */
@@ -192,12 +193,11 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #side {
-    width:calc(80vw - 50px);
-    display: block;
+    width:60vw;
+    margin-left:5vw;
+    display: inline-block;
     height:auto;
-    position:relative;
-    right:50px;
-    left: 4vw;
+    position:absolute;
     white-space: pre-wrap;
 }
 
