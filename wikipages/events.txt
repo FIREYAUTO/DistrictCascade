@@ -8,3 +8,4 @@ Usually events give a 2x base XP multiplier, which changes the XP gain for just 
 ^ 100k Event
 ^ 500k Event
 ^ 1M Event
+^ Birthday Event

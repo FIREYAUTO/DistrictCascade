@@ -262,6 +262,7 @@ pre,.single-code-block {
 .unfinished {
     width:100%;
     height:auto;
+    display:block;
     padding:10px;
     text-align:center;
     background:#7a1c4978;

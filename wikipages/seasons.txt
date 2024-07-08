@@ -10,6 +10,8 @@ Seasons are determined based on time and priority. Each season has its own prior
 ## Seasons List
 ^ July 4th {(ts)July 2nd - 6th} {(tag:1c7adf)Holiday}
 | Includes a different lost object spawn table, exclusive skins, exclusive crate
+^ Valentines {(ts)February 7th - 16th} {(tag:1c7adf)Holiday}
+| Pink grass color
 ^ Halloween {(ts)October} {(tag:1caf7a)Event}
 | Includes a different lost object spawn table, exclusive skins, exclusive crate
 | Purple skybox

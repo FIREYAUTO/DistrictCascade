@@ -63,22 +63,22 @@ ex: D1 is 2x2 units (4 units total)
 | {v:DM} 2.5x
 
 ### {(c:229026)D14 - Quantum Gardens}
-| {v:DM} 1x
+| {v:DM} 2.5x
 
 ### {(c:296449)D15 - Garden}
 | {v:DM} 2.5x
 
 ### {(c:ff9b34)D16 - Nexus}
-| {v:DM} 1x
+| {v:DM} 2.5x
 
 ### {(c:452964)D17 - Nytra}
-| {v:DM} 1x
+| {v:DM} 2.5x
 
 ### {(c:b69de1)D18 - Flow}
-| {v:DM} 1x
+| {v:DM} 2.5x
 
 ### {(c:004076)D19 - Cyber}
 | {v:DM} 1x
 
-### {(c:8dff27)D20 - Infinity Sector}
+### {(c:8dff27)D20 - Limit}
 | {v:DM} 1x

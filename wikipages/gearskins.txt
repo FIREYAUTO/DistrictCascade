@@ -1,4 +1,5 @@
 Gear Skins are equippable inventory items that will change the look of a given gear.
+Gear Skins can't change the functionality of the gears they are applied to.
 
 # List of Gear Skins
 ## Dasher
@@ -227,6 +228,39 @@ Kitty's Refract ({rc:Mythical})
 District Says ({rc:Legendary})
 | Description: I LOVE DISTRICT SAYS, for legal reasons I can't say simon. By the way I broke the yellow button, my bad
 | Designers: @mrkittycat13
+```
+{hr}
+## Accelerator
+```
+OG Accelerator ({rc:Epic})
+| Description: The original model concept for Accelerator
+Yellow Accelerator ({rc:Epic})
+| Description: Fun Fact. The default was modelled by the creator of this skin
+| Designers: @TLK_KARMA2000
+Blue Accelerator ({rc:Epic})
+| Description: Fun Fact. The default was modelled by the creator of this skin
+| Designers: @TLK_KARMA2000
+Pink Accelerator ({rc:Epic})
+| Description: Fun Fact. The default was modelled by the creator of this skin
+| Designers: @TLK_KARMA2000
+Golden Accelerator ({rc:Legendary})
+| Description: SHINY
+| Designers: @TLK_KARMA2000
+Orange Accelerator ({rc:Epic})
+| Description: Fun Fact. The default was modelled by the creator of this skin
+| Designers: @TLK_KARMA2000
+Purple Accelerator ({rc:Epic})
+| Description: Fun Fact. The default was modelled by the creator of this skin
+| Designers: @TLK_KARMA2000
+Red Accelerator ({rc:Epic})
+| Description: Fun Fact. The default was modelled by the creator of this skin
+| Designers: @TLK_KARMA2000
+Firey's Accelerator ({rc:Exotic})
+| Description: Fun Fact. The default accelerator was modelled by the creator of this skin
+| Designers: @TLK_KARMA2000
+Karma's Accelerator ({rc:Exotic})
+| Description: Fun Fact. The default accelerator was modelled by the creator of this skin
+| Designers: @TLK_KARMA2000
 ```
 {hr}
 ## Dasher Enhancer

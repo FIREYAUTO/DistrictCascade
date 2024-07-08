@@ -3,6 +3,9 @@ Skin Crates are used to get gear skins. Every non-basic skin crate will have dif
 ## Skin Crate Refining
 You can refine specific skin crates to recieve a skin crate of a higher tier. You will need `5` lower tier skin crates in order to turn them into the next tier. All exclusive skin crates are not able to be refined.
 
+## Crate Luck
+Skin Crate luck starts at 1, and can be increased accordingly. The way the luck is used in rolling, is it divides the roll number by the luck, the roll number being 1-100 (lower = more rare)
+
 ## List of Skin Crates
 ^ Arm Gear Skin Crate ({rc:Rare})
 | Default {{rarities:Rarities}}

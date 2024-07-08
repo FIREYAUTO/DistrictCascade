@@ -6,3 +6,9 @@ Perks are only able to be obtained once.
 ^ Glitch Orb
 *+0.15x Move XP*
 | Obtained by using the {{orbs:Glitch Orb}} at the {{altar:Altar}}.
+^ Lucky Orb
+*+75% Skin Crate Luck*
+| Obtained by using the {{orbs:Lucky Orb}} at the {{altar:Altar}}.
+^ High Level
+*+5x Move XP*
+| Obtained by reaching level 220

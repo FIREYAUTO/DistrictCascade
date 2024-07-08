@@ -1,4 +1,5 @@
 Arm Gears use your `Arm Gear` keybind to function.
+Arm Gears are the main movement gears in the game.
 
 # List of Arm Gears
 ## Claws {(tag:1caf7a)Active}
@@ -90,4 +91,16 @@ Using this gear on a wall will bounce you away from the given wall
 | Description:
 ```
 A very powerful prototype that tries to replicate the behavior of other gears. Notice: This gear will override ALL your gear keybinds, meaning this gear controls Back gear, leg gear, and arm gear.
+```
+## Blackhole Destablizer {(tag:1caf7a)Active}
+| Requires Level <b>130</b>
+| Description:
+```
+Summons a blackhole that will act as a celestial body, you will revolve around it. Releasing Arm Gear while in use will blast you away from the blackhole
+```
+## Accelerator {(tag:1caf7a)Active}
+| Requires Level <b>200</b>
+| Description:
+```
+Using this gear will accelerate you towards your desired direction
 ```

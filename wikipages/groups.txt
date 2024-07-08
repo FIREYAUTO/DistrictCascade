@@ -3,4 +3,6 @@ In District Cascade, a group is basically a party. You can create your own group
 You can also chat specifically with your group members by using `/group` in chat, as if you were going to chat with a team.
 
 ## Group Activities
-{TODO}: This feature is not yet implemented in the game
+Group Activities allow members of a group to participate together in the following activities:
+^ Tag
+^ Hide & Seek

@@ -5,3 +5,6 @@ Orbs are able to be used at the {{altar:altar}}.
 ## Glitch Orb
 The glitch orb is a special orb that requires you to max out your {{glitch:glitch}} stat.
 Using this orb at the altar will give you a {{perks:perk}} of +0.15x move XP.
+
+## Lucky Orb
+The lucky orb is a craftable orb that will grant a {{perks:perk}} that permanently increases {{skincrates:crate luck}} by 75%

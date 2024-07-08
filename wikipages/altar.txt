@@ -4,3 +4,4 @@ When an item is used on the altar, it will appear where the ball is on the altar
 
 ## List of Uses
 ^ {{orbs:Glitch Orb}}
+^ {{orbs:Lucky Orb}}

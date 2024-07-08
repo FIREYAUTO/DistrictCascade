@@ -19,3 +19,14 @@ Transmitted 5.00 GHz on all required towers
 ```
 CRA Log 0x663-A
 ```
+
+## 16.55 GHz
+| Required Towers: D
+| Prerequisites:
+```
+Transmitted 16.35 GHz GHz on all required towers
+```
+| Rewards:
+```
+CRA Log 0x663-B
+```
