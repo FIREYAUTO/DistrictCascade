@@ -435,3 +435,137 @@ FinalXP = floor(XP)
 | Time: 15s
 | Required Gear: **Dasher**
 | Type: Default
+
+### WHAT IS THIS!? ({v:Arduous})
+| XP: 1500 - 15000
+| Time: 70s
+| Required Gear: **Dasher**
+| Type: Default
+
+### Don't Get a Concussion ({v:Arduous})
+| XP: 1500 - 15000
+| Time: 70s
+| Required Gear: **Dasher**
+| Type: Default
+
+### Down the Mountain ({v:Challenging})
+| XP: 60 - 600
+| Time: 60s
+| Type: Default
+
+### Pokey ({v:Hard})
+| XP: 30 - 300
+| Time: 30s
+| Type: Default
+
+### Action-Packed ({v:Advanced})
+| XP: 30 - 300
+| Time: 60s
+| Required Gear: **RopeSwinger**
+| Type: Default
+
+### Holey Moley ({v:Challenging})
+| XP: 60 - 600
+| Time: 60s
+| Type: Default
+
+### Spare Time ({v:Hard})
+| XP: 30 - 300
+| Time: 30s
+| Required Gear: **Accelerator**
+| Type: Default
+
+### Quantum Crossing ({v:Hard})
+| XP: 30 - 300
+| Time: 30s
+| Required Gear: **Accelerator**
+| Type: Default
+
+### Easy Time Trial ({v:Hard})
+| XP: 30 - 300
+| Time: 30s
+| Required Gear: **Refractralizer**
+| Type: Default
+
+### Through the View ({v:Challenging})
+| XP: 300 - 3000
+| Time: 45s
+| Type: Default
+
+### Path-Creator ({v:Challenging})
+| XP: 400 - 4000
+| Time: 60s
+| Type: Default
+
+### Risky Route ({v:Hard})
+| XP: 60 - 600
+| Time: 30s
+| Type: Default
+
+### Alleyway ({v:Hard})
+| XP: 60 - 600
+| Time: 30s
+| Type: Default
+
+### Dropdown Heaven ({v:Challenging})
+| XP: 120 - 1200
+| Time: 45s
+| Type: Default
+
+### Nexus Gap ({v:Hard})
+| XP: 100 - 1000
+| Time: 30s
+| Type: Default
+
+### Difficult Climbing ({v:Challenging})
+| XP: 300 - 3000
+| Time: 60s
+| Required Gear: **Claws**
+| Type: Default
+
+### Over There ({v:Challenging})
+| XP: 300 - 3000
+| Time: 60s
+| Required Gear: **RepellantLauncher**
+| Type: Default
+
+### Riser ({v:Challenging})
+| XP: 300 - 3000
+| Time: 60s
+| Type: Default
+
+### Nitrous ({v:Hard})
+| XP: 40 - 400
+| Time: 30s
+| Required Gear: **Accelerator**
+| Type: Default
+
+### Similar Architecture ({v:Hard})
+| XP: 40 - 400
+| Time: 30s
+| Type: Default
+
+### Mind Breaker ({v:Challenging})
+| XP: 150 - 1500
+| Time: 30s
+| Type: Default
+
+### Wrap Challenge ({v:Challenging})
+| XP: 150 - 1500
+| Time: 30s
+| Type: Default
+
+### Too Easy ({v:Hard})
+| XP: 40 - 400
+| Time: 25s
+| Type: Default
+
+### Distance Testing ({v:Challenging})
+| XP: 80 - 800
+| Time: 25s
+| Type: Default
+
+### Scenic Route ({v:Challenging})
+| XP: 125 - 1250
+| Time: 30s
+| Type: Default
