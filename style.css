@@ -137,6 +137,7 @@ h1,h2,h3,h4,h5,h6 {
     overflow: auto;
     display:inline-block;
     z-index: 1;
+    max-width:200px;
 }
 
 #list::-webkit-scrollbar {
