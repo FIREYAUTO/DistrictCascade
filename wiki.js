@@ -3,7 +3,7 @@ const Files = {};
 const SubFiles = {};
 const WhitespaceTags = ["PRE","H1","H2","H3","H4","H5","H6","LI"];
 const WikiSubpages = {};
-const LastSubpageElements = [];
+let LastSubpageElements = [];
 
 function RemoveNewlines(Element){
 	if(WhitespaceTags.includes(Element.tagName)){
