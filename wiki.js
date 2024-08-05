@@ -16,7 +16,6 @@ async function CheckHash(){
 	window.SVars={};
 	let Hash = window.location.hash;
 	let RHash = Hash;
-	console.log(RHash);
 	if(Hash.length<1)Hash="#home";
 	Hash = Hash.substring(1);
 	if(Hash.length<1)Hash="home";
@@ -27,6 +26,7 @@ async function CheckHash(){
 	let Url = `https://raw.githubusercontent.com/FIREYAUTO/DistrictCascade/main/wikipages/${Hash}.txt`;
 	if(Sub){
 		Url = `https://raw.githubusercontent.com/FIREYAUTO/DistrictCascade/main/wikisubpages/${Hash}/${Sub}.txt`;
+		console.log(SubFiles);
 		Title = SubFiles[Hash][Sub]||"Title"
 	}
 	try{
@@ -84,6 +84,7 @@ window.addEventListener("load",async()=>{
 			let [Name,Link,SubPages] = Item;
 			let Element;
 			if(SubPages){
+				console.log(Name,Link,SubPages);
 				WikiSubpages[Link] = SubPages;
 				let SubFile = {};
 				SubFiles[Link] = SubFile;
