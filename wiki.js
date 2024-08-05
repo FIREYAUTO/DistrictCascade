@@ -41,12 +41,11 @@ async function CheckHash(){
 		console.error(E);
 	}
 	ClearActiveWikis();
+	let HReg = new RegExp(`#${Hash}$`,"");
 	for(let C of List.childNodes){
 		let href = C.href
 		if(!href)continue;
-		//C.href&&C.href.match(new RegExp(`#${Hash}$`,""))
-		console.log(C.href);
-		if(C.href == `#${Hash}`){AddActiveWiki(C,Hash,Sub);break}
+		if(href.match(HReg)){console.log(href);AddActiveWiki(C,Hash,Sub);break}
 	}
 }
 
