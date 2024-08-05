@@ -111,7 +111,7 @@ window.addEventListener("load",async()=>{
 				Element.href = `#${Link}`;
 				Element.innerHTML = Name;
 				if(SubPages){
-					Element.innerHTML = `${Name} <span style="font-size:14px;">[${SubPages.length}]</span>`
+					Element.innerHTML = `${Name} <span style="font-size:12px;">[${SubPages.length}]</span>`
 				}
 				Files[Link]=Name;
 			}
