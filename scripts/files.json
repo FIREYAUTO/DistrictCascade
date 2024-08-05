@@ -11,7 +11,9 @@
 	["Gears","gears"],
 	["Gear Skins","gearskins"],
 	["Gear Mods","gearmods"],
-	["Arm Gears","armgears"],
+	["Arm Gears","armgears",[
+		["Dasher","dasher"]
+	]],
 	["Back Gears","backgears"],
 	["Leg Gears","leggears"],
 	["Cosmetic Gears","cosmeticgears"],

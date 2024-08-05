@@ -1,7 +1,8 @@
 const List = document.getElementById("list");
 const Files = {};
-
+const SubFiles = {};
 const WhitespaceTags = ["PRE","H1","H2","H3","H4","H5","H6","LI"];
+const WikiSubpages = {};
 
 function RemoveNewlines(Element){
 	if(WhitespaceTags.includes(Element.tagName)){
@@ -18,10 +19,19 @@ async function CheckHash(){
 	if(Hash.length<1)Hash="#home";
 	Hash = Hash.substring(1);
 	if(Hash.length<1)Hash="home";
+	let Split = Hash.split(":")
+	Hash = Split[0];
+	let Sub = Split[1];
+	let Title = Files[Hash]||"Title";
+	let Url = `https://raw.githubusercontent.com/FIREYAUTO/DistrictCascade/main/wikipages/${Hash}.txt`;
+	if(Sub){
+		Url = `https://raw.githubusercontent.com/FIREYAUTO/DistrictCascade/main/wikisubpages/${Hash}/${Sub}.txt`;
+		Title = SubFiles[Hash][Sub]||"Title"
+	}
 	try{
-		let Response = await fetch(`https://raw.githubusercontent.com/FIREYAUTO/DistrictCascade/main/wikipages/${Hash}.txt`);
+		let Response = await fetch(Url);
 		Response = await Response.text();
-		Response = `# ${Files[Hash]||"Title"}\n${Response}\n\n\n\n`;
+		Response = `# ${Title}\n${Response}\n\n\n\n`;
 		if(window.WikiParse){
 			let Side = document.getElementById("side");
 			Side.innerHTML = window.WikiParse(Response);
@@ -33,12 +43,24 @@ async function CheckHash(){
 	}
 	ClearActiveWikis();
 	for(let C of List.childNodes)
-		if(C.href&&C.href.match(new RegExp(`${RHash}$`,""))){AddActiveWiki(C);break}
+		if(C.href&&C.href.match(new RegExp(`#${Hash}$`,""))){AddActiveWiki(C,Hash,Sub);break}
 }
 
-function AddActiveWiki(E){
-	if(!E.classList.contains("active-wiki"))
+function AddActiveWiki(E,Hash,Sub){
+	let SubPages = WikiSubpages[Hash];
+	if(SubPages){
+		for(let Item of SubPages){
+			let [Name,Link] = Item;
+			Element = document.createElement("a");
+			Element.href = `#${Hash}:${Link}`;
+			Element.innerHTML = Name;
+			Element.insertAfter(E);
+		}
+	}
+	if(Sub)return;
+	if(!E.classList.contains("active-wiki")){
 		E.classList.add("active-wiki");
+	}
 }
 
 function RemoveActiveWiki(E){
@@ -57,8 +79,16 @@ window.addEventListener("load",async()=>{
 		let Response = await fetch(`https://raw.githubusercontent.com/FIREYAUTO/DistrictCascade/main/scripts/files.json`);
 			Response = await Response.json();
 		for(let Item of Response){
-			let [Name,Link] = Item;
+			let [Name,Link,SubPages] = Item;
 			let Element;
+			if(SubPages){
+				WikiSubpages[Name] = SubPages;
+				let SubFile = {};
+				SubFiles[Name] = SubFile;
+				for(let I of SubPages){
+					SubFile[I[1]] = I[0]
+				}
+			}
 			if(Link===true){
 				Element = document.createElement("span")
 				Element.innerHTML = Name;
