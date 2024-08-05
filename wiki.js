@@ -110,6 +110,9 @@ window.addEventListener("load",async()=>{
 				Element = document.createElement("a");
 				Element.href = `#${Link}`;
 				Element.innerHTML = Name;
+				if(SubPages){
+					Element.innerHTML = `${Name} <span style="font-size:14px;">[${SubPages.length}]</span>`
+				}
 				Files[Link]=Name;
 			}
 			List.appendChild(Element);
