@@ -16,6 +16,7 @@ async function CheckHash(){
 	window.SVars={};
 	let Hash = window.location.hash;
 	let RHash = Hash;
+	console.log(RHash);
 	if(Hash.length<1)Hash="#home";
 	Hash = Hash.substring(1);
 	if(Hash.length<1)Hash="home";
@@ -49,6 +50,7 @@ async function CheckHash(){
 function AddActiveWiki(E,Hash,Sub){
 	let SubPages = WikiSubpages[Hash];
 	if(SubPages){
+		console.log(SubPages,Hash);
 		for(let Item of SubPages){
 			let [Name,Link] = Item;
 			Element = document.createElement("a");
