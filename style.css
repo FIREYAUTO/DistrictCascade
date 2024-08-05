@@ -186,8 +186,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .sub-wiki {
-    left:10px;
-    width:calc(inherit - 10px);
+    margin-left:30% !important;
 }
 
 #side>a,#side>a:visited,#side>a:focus,.side-a {
