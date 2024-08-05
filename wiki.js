@@ -54,7 +54,7 @@ function AddActiveWiki(E,Hash,Sub){
 			Element = document.createElement("a");
 			Element.href = `#${Hash}:${Link}`;
 			Element.innerHTML = Name;
-			E.insertAdjacentHTML(Element);
+			E.parentNode.insertBefore(Element,E.nextSibling);
 			//Element.insertAfter(E);
 		}
 	}
