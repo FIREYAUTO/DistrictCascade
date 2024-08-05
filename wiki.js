@@ -60,8 +60,10 @@ function AddActiveWiki(E,Hash,Sub){
 		for(let Item of SubPages){
 			let [Name,Link] = Item;
 			Element = document.createElement("a");
-			Element.href = `#${Hash}:${Link}`;
+			let HRef = `#${Hash}:${Link}`;
+			Element.href = HRef;
 			Element.innerHTML = Name;
+			Element.name = HRef;
 			E.parentNode.insertBefore(Element,E.nextSibling);
 		}
 	}
