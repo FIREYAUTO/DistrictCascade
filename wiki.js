@@ -59,7 +59,7 @@ function AddActiveWiki(E,Hash,Sub){
 	if(SubPages){
 		for(let Item of SubPages){
 			let [Name,Link] = Item;
-			Element = document.createElement("a");
+			let Element = document.createElement("a");
 			let HRef = `#${Hash}:${Link}`;
 			if(Sub==Link){
 				Element.classList.add("active-wiki");
