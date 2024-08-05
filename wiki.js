@@ -45,6 +45,7 @@ async function CheckHash(){
 		let href = C.href
 		if(!href)continue;
 		//C.href&&C.href.match(new RegExp(`#${Hash}$`,""))
+		console.log(C.href);
 		if(C.href == `#${Hash}`){AddActiveWiki(C,Hash,Sub);break}
 	}
 }
