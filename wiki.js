@@ -68,7 +68,6 @@ function AddActiveWiki(E,Hash,Sub){
 			Element.innerHTML = Name;
 			LastSubpageElements.push(Element);
 			E.parentNode.insertBefore(Element,E.nextSibling);
-			console.log(Item);
 		}
 	}
 	if(Sub)return;
