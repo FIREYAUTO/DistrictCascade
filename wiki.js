@@ -43,9 +43,14 @@ async function CheckHash(){
 	ClearActiveWikis();
 	let HReg = new RegExp(`#${Hash}$`,"");
 	for(let C of List.childNodes){
+		let N = C.name;
+		if(N&&N.match(":"))
+			C.remove();
+	}
+	for(let C of List.childNodes){
 		let href = C.href
 		if(!href)continue;
-		if(href.match(HReg)){console.log(href);AddActiveWiki(C,Hash,Sub);break}
+		if(href.match(HReg)){AddActiveWiki(C,Hash,Sub);break}
 	}
 }
 
@@ -58,7 +63,6 @@ function AddActiveWiki(E,Hash,Sub){
 			Element.href = `#${Hash}:${Link}`;
 			Element.innerHTML = Name;
 			E.parentNode.insertBefore(Element,E.nextSibling);
-			//Element.insertAfter(E);
 		}
 	}
 	if(Sub)return;
