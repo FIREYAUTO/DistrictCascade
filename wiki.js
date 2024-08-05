@@ -41,14 +41,17 @@ async function CheckHash(){
 		console.error(E);
 	}
 	ClearActiveWikis();
-	for(let C of List.childNodes)
-		if(C.href&&C.href.match(new RegExp(`#${Hash}$`,""))){AddActiveWiki(C,Hash,Sub);break}
+	for(let C of List.childNodes){
+		let href = C.href
+		if(!href)continue;
+		//C.href&&C.href.match(new RegExp(`#${Hash}$`,""))
+		if(C.href == `#${Hash}`){AddActiveWiki(C,Hash,Sub);break}
+	}
 }
 
 function AddActiveWiki(E,Hash,Sub){
 	let SubPages = WikiSubpages[Hash];
 	if(SubPages){
-		console.log(SubPages,Hash);
 		for(let Item of SubPages){
 			let [Name,Link] = Item;
 			Element = document.createElement("a");
