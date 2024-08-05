@@ -84,9 +84,9 @@ window.addEventListener("load",async()=>{
 			let [Name,Link,SubPages] = Item;
 			let Element;
 			if(SubPages){
-				WikiSubpages[Name] = SubPages;
+				WikiSubpages[Link] = SubPages;
 				let SubFile = {};
-				SubFiles[Name] = SubFile;
+				SubFiles[Link] = SubFile;
 				for(let I of SubPages){
 					SubFile[I[1]] = I[0]
 				}
