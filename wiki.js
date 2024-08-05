@@ -43,9 +43,8 @@ async function CheckHash(){
 	}
 	ClearActiveWikis();
 	let HReg = new RegExp(`#${Hash}$`,"");
-	for(let C of LastSubpageElements){
-		C.remove()
-	}
+	for(let C of LastSubpageElements)
+		C.remove();
 	LastSubpageElements = [];
 	for(let C of List.childNodes){
 		let href = C.href
@@ -69,6 +68,7 @@ function AddActiveWiki(E,Hash,Sub){
 			Element.innerHTML = Name;
 			LastSubpageElements.push(Element);
 			E.parentNode.insertBefore(Element,E.nextSibling);
+			console.log(Item);
 		}
 	}
 	if(Sub)return;
