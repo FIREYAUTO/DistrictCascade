@@ -1,0 +1,10 @@
+Accelerator is a high-level {{armgears:arm gear}} that allows you to achieve high speeds quickly.
+
+Accelerator requires you to charge up the gear in order to use it, and you can only charge the gear while in the air.
+
+Releasing your Arm Gear Keybind will dash you towards the direction of your camera for a specific amount of time and with a specific amount of power.
+
+Accelerator will accelerate you towards the direction you are looking as well, unless you are turning too much while the gear is in use.
+
+# Notes
+Accelerator is by far one of the best {{armgears:arm gears}} in the entire game
