@@ -185,6 +185,11 @@ h1,h2,h3,h4,h5,h6 {
     margin-bottom:5px;
 }
 
+.sub-wiki {
+    left:10px;
+    width:calc(inherit - 10px);
+}
+
 #side>a,#side>a:visited,#side>a:focus,.side-a {
     color: var(--light-main-color)!important;
     text-decoration:none!important;

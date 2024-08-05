@@ -64,6 +64,7 @@ function AddActiveWiki(E,Hash,Sub){
 			if(Sub==Link){
 				Element.classList.add("active-wiki");
 			}
+			Element.classList.add("sub-wiki");
 			Element.href = HRef;
 			Element.innerHTML = Name;
 			LastSubpageElements.push(Element);
