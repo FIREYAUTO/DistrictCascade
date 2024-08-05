@@ -3,6 +3,7 @@ const Files = {};
 const SubFiles = {};
 const WhitespaceTags = ["PRE","H1","H2","H3","H4","H5","H6","LI"];
 const WikiSubpages = {};
+const LastSubpageElements = [];
 
 function RemoveNewlines(Element){
 	if(WhitespaceTags.includes(Element.tagName)){
@@ -42,11 +43,10 @@ async function CheckHash(){
 	}
 	ClearActiveWikis();
 	let HReg = new RegExp(`#${Hash}$`,"");
-	for(let C of List.childNodes){
-		let N = C.name;
-		if(N&&N.match(":"))
-			C.remove();
+	for(let C of LastSubpageElements){
+		C.remove()
 	}
+	LastSubpageElements = [];
 	for(let C of List.childNodes){
 		let href = C.href
 		if(!href)continue;
@@ -61,9 +61,12 @@ function AddActiveWiki(E,Hash,Sub){
 			let [Name,Link] = Item;
 			Element = document.createElement("a");
 			let HRef = `#${Hash}:${Link}`;
+			if(Sub==Link){
+				Element.classList.add("active-wiki");
+			}
 			Element.href = HRef;
 			Element.innerHTML = Name;
-			Element.name = HRef;
+			LastSubpageElements.push(Element);
 			E.parentNode.insertBefore(Element,E.nextSibling);
 		}
 	}
