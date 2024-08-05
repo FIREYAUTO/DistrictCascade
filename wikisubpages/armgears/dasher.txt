@@ -1,1 +1,5 @@
-Hello! (From sub-page wiki)
+Dasher is a high-level {{armgears::arm gear}} that allows you to achieve high speeds quickly.
+
+Dasher requires you to charge up the gear in order to use it, and you can only charge the gear while in the air.
+
+Releasing your Arm Gear Keybind will dash you towards the direction of your camera for a specific amount of time and with a specific amount of power.
