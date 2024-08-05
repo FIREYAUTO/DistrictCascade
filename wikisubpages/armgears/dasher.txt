@@ -1,4 +1,4 @@
-Dasher is a high-level {{armgears::arm gear}} that allows you to achieve high speeds quickly.
+Dasher is a high-level {{armgears:arm gear}} that allows you to achieve high speeds quickly.
 
 Dasher requires you to charge up the gear in order to use it, and you can only charge the gear while in the air.
 
