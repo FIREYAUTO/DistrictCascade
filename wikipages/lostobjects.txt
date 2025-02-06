@@ -65,13 +65,21 @@ Meteorite
 ```
 
 ## July4th
-#### {rc:Common} (85%)
+#### {rc:Common} (65%)
 ```
 4th of July Skin Crate
 ```
-#### {rc:Rare} (15%)
+#### {rc:Uncommon} (35%)
 ```
-+1x : 15m XP Booster
++0.5x : 15m XP Booster
+10m Generator Shield
+District-Cola
+District Orange Soda
+Empty Bottle
+Water Bottle
+Gear Upgrade Kit
+Note Decrypter
+Phone
 Hammer
 ```
 
