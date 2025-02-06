@@ -20,6 +20,33 @@ XP *= 1+M
 ```
 As you can see, the higher the tier of the lost object (aka higher spawn rarity), the more XP it will give you.
 
+# Lost Object Events
+Every 30 minutes, a random lost object event occurs. These events will change a given amount of the next lost object spawns.
+### {(c:ffca5a)Meteor Shower}
+Pool:
+```
+Meteorite
+```
+Amount Per Event: `10`
+### {(c:ffca5a)Generator Shield Rain}
+Pool:
+```
+10mGeneratorShield
+1hrGeneratorShield
+30mGeneratorShield
+```
+Amount Per Event: `10`
+### {(c:ffca5a)XP-Fest}
+Pool:
+```
++0.5x : 15m XP Booster
++0.5x : 1hr XP Booster
++0.5x : 4hr XP Booster
++1x : 15m XP Booster
++1x : 1hr XP Booster
+```
+Amount Per Event: `10`
+
 # List of Lost Object Spawns
 ## Default
 #### {rc:Common} (55%)
