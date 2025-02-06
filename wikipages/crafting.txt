@@ -1,6 +1,7 @@
 Crafting is essential to unlock some of the gears in the game. The crafting button can be found inside the "Progression" button category. Crafting can also be started at a {{workbenches:workbenech}}. Each workbench has its own unique crafting recipes, although they all inherit the default workbench recipes.
 
 # Regular Recipes
+# Regular Recipes
 ## Metal Plate
 Recipe 1
 ```
@@ -170,6 +171,24 @@ Metal Plate (1) [CONSUMED]
 Metal Rod (2) [CONSUMED]
 ```
 
+## Motor
+Recipe 1
+```
+Conductive Tubing (1) [CONSUMED]
+Wiring (3) [CONSUMED]
+Metal Rod (10) [CONSUMED]
+Metal Plate (4) [CONSUMED]
+Plastic (4) [CONSUMED]
+```
+
+## Empty Flux Can
+Recipe 1
+```
+Metal Rod (4) [CONSUMED]
+Metal Plate (2) [CONSUMED]
+Hammer (1) [NOT CONSUMED]
+```
+
 
 
 ## Neon Workbench
@@ -238,6 +257,7 @@ Coil (2) [CONSUMED]
 Glass (6) [CONSUMED]
 Conductive Tubing (4) [CONSUMED]
 Core of Cascade (1) [CONSUMED]
+Motor (1) [CONSUMED]
 ```
 
 ## Air Thruster
@@ -251,6 +271,77 @@ B-Grade Flux (1) [CONSUMED]
 Metal Rod (3) [CONSUMED]
 Coil (2) [CONSUMED]
 Glass (3) [CONSUMED]
+Motor (1) [CONSUMED]
+```
+
+## Refract Coolant
+Recipe 1
+```
+Gear Mod Base (1) [CONSUMED]
+Hammer (1) [NOT CONSUMED]
+Gear Frame (1) [CONSUMED]
+Neutronium Shard (1) [CONSUMED]
+B-Grade Flux (1) [CONSUMED]
+Conductive Tubing (4) [CONSUMED]
+Motor (2) [CONSUMED]
+```
+
+## Slinger Inf
+Recipe 1
+```
+Gear Mod Base (1) [CONSUMED]
+Hammer (1) [NOT CONSUMED]
+Gear Frame (1) [CONSUMED]
+Neutronium Shard (1) [CONSUMED]
+A-Grade Flux (1) [CONSUMED]
+Conductive Tubing (4) [CONSUMED]
+Motor (2) [CONSUMED]
+Coil (10) [CONSUMED]
+Wiring (10) [CONSUMED]
+```
+
+## Enhancer
+Recipe 1
+```
+Hammer (1) [NOT CONSUMED]
+Metal Plate (3) [CONSUMED]
+Gear Drive (1) [CONSUMED]
+Gear Frame (1) [CONSUMED]
+C-Grade Flux (1) [CONSUMED]
+Metal Rod (3) [CONSUMED]
+Motor (1) [CONSUMED]
+Watchers Core (1) [CONSUMED]
+```
+
+## Action Priority
+Recipe 1
+```
+C-Grade Flux (1) [CONSUMED]
+Hammer (1) [NOT CONSUMED]
+Metal Plate (2) [CONSUMED]
+Glass (3) [CONSUMED]
+```
+
+## Air Blaster
+Recipe 1
+```
+Hammer (1) [NOT CONSUMED]
+Metal Plate (2) [CONSUMED]
+Scrap Gear Drive (1) [CONSUMED]
+Gear Frame (1) [CONSUMED]
+Metal Rod (1) [CONSUMED]
+Coil (2) [CONSUMED]
+Glass (2) [CONSUMED]
+Conductive Tubing (2) [CONSUMED]
+```
+
+## Scrap Gear Drive
+Recipe 1
+```
+Gear Scrap (1) [CONSUMED]
+Plastic (2) [CONSUMED]
+Metal Plate (1) [CONSUMED]
+C-Grade Flux (1) [CONSUMED]
 ```
 
 

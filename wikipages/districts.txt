@@ -78,7 +78,7 @@ ex: D1 is 2x2 units (4 units total)
 | {v:DM} 2.5x
 
 ### {(c:004076)D19 - Cyber}
-| {v:DM} 1x
+| {v:DM} 2.5x
 
 ### {(c:8dff27)D20 - Limit}
-| {v:DM} 1x
+| {v:DM} 3x

@@ -104,3 +104,27 @@ Summons a blackhole that will act as a celestial body, you will revolve around i
 ```
 Using this gear will accelerate you towards your desired direction
 ```
+## Exo-Claws {(tag:1caf7a)Active}
+| Requires "Claws" Gear & Kit
+| Description:
+```
+Climb up walls by holding your arm gear keybind while in front of them
+```
+## Objectilizer {(tag:1caf7a)Active}
+| Requires Level <b>250</b>
+| Description:
+```
+A device like no other; create platforms & walls out of thin air
+```
+## Weapon {(tag:1caf7a)Active}
+| Requires Level <b>101</b>
+| Description:
+```
+A modular weapon gear that overwrites all gear keybinds; cannot be used to attack other players
+```
+## Air Blaster {(tag:1caf7a)Active}
+| Requires "Air Blaster" Gears
+| Description:
+```
+A failed version of Repellant Launcher. It blasts a wave of air that attempts to push you backwards
+```

@@ -121,3 +121,15 @@ Pressing your back gear keybind will switch between upwards and downwards moveme
 ```
 A passive gear which converts some of your falling velocity into horizontal if you roll perfectly
 ```
+## Preserver {(tag:1caf7a)Active}
+| Requires "PlanarConverter" Gear & Kit
+| Description:
+```
+Preserves your velocity while in use
+```
+## Explosion Materializer {(tag:1caf7a)Active}
+| Requires Level <b>140</b>
+| Description:
+```
+An active gear that allows you throw explosive projectiles that stick to surfaces. Overrides leg gear keybind
+```

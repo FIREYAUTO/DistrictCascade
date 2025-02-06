@@ -22,12 +22,13 @@ end
 FinalXP = floor(XP)
 ```
 
-{sv:Easy} {(c:1ccf5a)Easy}
-{sv:Intermediate} {(c:fccd1c)Intermediate}
-{sv:Hard} {(c:ff7c2a)Hard}
-{sv:Advanced} {(c:df3c6a)Advanced}
-{sv:Challenging} {(c:6a1c2a)Challenging}
-{sv:Elite} {(c:1cff7a)Elite}
+{sv:Easy} {(c:6CAAFF)Easy}
+{sv:Intermediate} {(c:4CDFAA)Intermediate}
+{sv:Hard} {(c:FFCA1C)Hard}
+{sv:Advanced} {(c:FF7A4C)Advanced}
+{sv:Challenging} {(c:FF3A6C)Challenging}
+{sv:Elite} {(c:AF3A9C)Elite}
+{sv:Arduous} {(c:7A1CFF)Arduous}
 
 ## List of Time-Trial Difficulties
 ^ {v:Easy}
@@ -36,6 +37,7 @@ FinalXP = floor(XP)
 ^ {v:Advanced}
 ^ {v:Challenging}
 ^ {v:Elite}
+^ {v:Arduous}
 
 ## List of Time-Trials
 ### Downtown Dash ({v:Easy})
@@ -43,32 +45,32 @@ FinalXP = floor(XP)
 | Time: 15s
 
 ### Going Up ({v:Intermediate})
-| XP: 30 - 300
+| XP: 40 - 400
 | Time: 30s
 
 ### Speed-Demon ({v:Hard})
-| XP: 60 - 500
+| XP: 100 - 500
 | Time: 20s
 
 ### Slow and Steady ({v:Easy})
-| XP: 10 - 100
+| XP: 50 - 300
 | Time: 20s
 
 ### For the Beginners ({v:Intermediate})
-| XP: 30 - 300
+| XP: 45 - 350
 | Time: 40s
 
 ### Slope Steppers ({v:Intermediate})
-| XP: 30 - 300
+| XP: 50 - 300
 | Time: 30s
 
 ### Late For Work ({v:Hard})
-| XP: 90 - 900
+| XP: 100 - 1000
 | Time: 40s
 | Required Gear: **RopeSlinger**
 
 ### Swingin' Around ({v:Intermediate})
-| XP: 30 - 300
+| XP: 60 - 600
 | Time: 30s
 | Required Gear: **RopeSwinger**
 
@@ -77,41 +79,41 @@ FinalXP = floor(XP)
 | Time: 25s
 
 ### BHop ({v:Intermediate})
-| XP: 30 - 300
+| XP: 60 - 500
 | Time: 40s
 
 ### The Flow ({v:Hard})
-| XP: 60 - 500
+| XP: 120 - 600
 | Time: 20s
 
 ### Flat-Tops ({v:Intermediate})
-| XP: 30 - 300
+| XP: 50 - 400
 | Time: 40s
 
 ### Cross The Complex ({v:Easy})
-| XP: 20 - 200
+| XP: 30 - 600
 | Time: 40s
 
 ### Side-Liner ({v:Intermediate})
-| XP: 30 - 300
+| XP: 40 - 450
 | Time: 30s
 
 ### Speed-Hops ({v:Hard})
-| XP: 50 - 500
+| XP: 100 - 500
 | Time: 30s
 
 ### Grand Climb ({v:Intermediate})
-| XP: 40 - 400
+| XP: 60 - 600
 | Time: 40s
 | Required Gear: **Claws**
 
 ### Swing Across ({v:Hard})
-| XP: 100 - 700
+| XP: 150 - 800
 | Time: 45s
 | Required Gear: **RopeSwinger**
 
 ### A Dash ({v:Hard})
-| XP: 130 - 1300
+| XP: 150 - 1500
 | Time: 40s
 | Required Gear: **Dasher**
 
@@ -121,195 +123,195 @@ FinalXP = floor(XP)
 | Required Gear: **Claws**
 
 ### Repel ({v:Intermediate})
-| XP: 45 - 450
+| XP: 50 - 500
 | Time: 35s
 | Required Gear: **RepellantLauncher**
 
 ### Across ({v:Challenging})
-| XP: 100 - 1000
+| XP: 800 - 3000
 | Time: 90s
 | Required Gear: **Fins**
 
 ### Higher-Climb ({v:Easy})
-| XP: 40 - 300
+| XP: 40 - 400
 | Time: 35s
 | Required Gear: **Claws**
 
 ### Prototyping ({v:Intermediate})
-| XP: 50 - 500
+| XP: 80 - 700
 | Time: 30s
 | Required Gear: **Dasher**
 
 ### Highest-Climb ({v:Hard})
-| XP: 70 - 700
+| XP: 200 - 800
 | Time: 40s
 | Required Gear: **Claws**
 
 ### Surrounded ({v:Hard})
-| XP: 80 - 800
+| XP: 160 - 1000
 | Time: 40s
 
 ### Straight Across ({v:Hard})
-| XP: 100 - 1000
+| XP: 300 - 1200
 | Time: 20s
 | Required Gear: **ControlPlate**
 
 ### Simple Stretch ({v:Intermediate})
-| XP: 30 - 300
+| XP: 60 - 500
 | Time: 50s
 
 ### Cross The Boundary ({v:Intermediate})
-| XP: 30 - 300
+| XP: 30 - 250
 | Time: 20s
 
 ### Down And Up ({v:Intermediate})
-| XP: 30 - 300
+| XP: 50 - 350
 | Time: 20s
 
 ### Running ({v:Hard})
-| XP: 70 - 700
+| XP: 100 - 900
 | Time: 50s
 
 ### Simple Flow ({v:Intermediate})
-| XP: 35 - 350
+| XP: 50 - 350
 | Time: 30s
 
 ### Long Dash ({v:Hard})
-| XP: 90 - 900
+| XP: 120 - 1200
 | Time: 45s
 | Required Gear: **Dasher**
 
 ### Cross The Valley ({v:Hard})
-| XP: 90 - 900
+| XP: 120 - 900
 | Time: 50s
 
 ### Mountaineering ({v:Challenging})
-| XP: 300 - 1000
+| XP: 1000 - 2500
 | Time: 70s
 
 ### Simple Climb ({v:Intermediate})
-| XP: 45 - 450
+| XP: 45 - 500
 | Time: 35s
 
 ### Threshold ({v:Intermediate})
-| XP: 45 - 450
+| XP: 70 - 500
 | Time: 35s
 
 ### Canyon Rush ({v:Hard})
-| XP: 100 - 1000
+| XP: 200 - 800
 | Time: 40s
 
 ### Dropdown ({v:Intermediate})
-| XP: 40 - 400
+| XP: 80 - 800
 | Time: 40s
 
 ### To The Hotel ({v:Hard})
-| XP: 60 - 600
+| XP: 100 - 600
 | Time: 40s
 
 ### Complicated Crossing ({v:Hard})
-| XP: 80 - 800
+| XP: 200 - 800
 | Time: 50s
 
 ### Backwards Compatibility ({v:Hard})
-| XP: 100 - 1000
+| XP: 200 - 800
 | Time: 50s
 
 ### Being Watched ({v:Intermediate})
-| XP: 40 - 400
+| XP: 100 - 1000
 | Time: 35s
 
 ### City Swing ({v:Hard})
-| XP: 100 - 700
+| XP: 200 - 600
 | Time: 55s
 | Required Gear: **RopeSwinger**
 
 ### What ({v:Easy})
-| XP: 10 - 100
+| XP: 20 - 150
 | Time: 15s
 
 ### Idk ({v:Hard})
-| XP: 100 - 1000
+| XP: 300 - 1200
 | Time: 50s
 
 ### Gotta Go ({v:Intermediate})
-| XP: 30 - 300
+| XP: 50 - 450
 | Time: 40s
 
 ### Staircase ({v:Intermediate})
-| XP: 40 - 400
+| XP: 70 - 700
 | Time: 50s
 
 ### Flux Zone ({v:Intermediate})
-| XP: 30 - 300
+| XP: 50 - 60
 | Time: 30s
 
 ### Economic Hops ({v:Intermediate})
-| XP: 30 - 300
+| XP: 50 - 400
 | Time: 30s
 
 ### Escape The Green Zone ({v:Hard})
-| XP: 50 - 500
+| XP: 100 - 500
 | Time: 50s
 
 ### Speed Required ({v:Hard})
-| XP: 50 - 500
+| XP: 100 - 700
 | Time: 30s
 
 ### Corner Cutter ({v:Hard})
-| XP: 60 - 600
+| XP: 100 - 600
 | Time: 45s
 
-### Adventurous  ({v:Intermeidiate})
+### Adventurous ({v:Hard})
 | XP: 30 - 300
 | Time: 40s
 
 ### Path-Shaper ({v:Hard})
-| XP: 50 - 500
+| XP: 120 - 600
 | Time: 30s
 
 ### Traceur Dream ({v:Challenging})
-| XP: 100 - 1000
+| XP: 800 - 1600
 | Time: 30s
 
 ### Unequal Terrain ({v:Intermediate})
-| XP: 20 - 200
-| Time: 30s
+| XP: 30 - 250
+| Time: 23s
 
 ### Imminent Wall ({v:Hard})
-| XP: 40 - 400
+| XP: 120 - 500
 | Time: 30s
 
 ### Leap of Faith ({v:Hard})
-| XP: 40 - 400
+| XP: 160 - 500
 | Time: 20s
 
 ### Cross ({v:Challenging})
-| XP: 50 - 500
+| XP: 300 - 1500
 | Time: 30s
 
 ### Chaotic Neutral ({v:Hard})
-| XP: 35 - 350
+| XP: 100 - 500
 | Time: 20s
 | Required Gear: **Dasher**
 
 ### Technique Required ({v:Hard})
-| XP: 30 - 300
+| XP: 120 - 400
 | Time: 25s
 | Required Gear: **RopeSlinger**
 
 ### Swing-Along ({v:Hard})
-| XP: 30 - 300
+| XP: 80 - 600
 | Time: 30s
 | Required Gear: **RopeSwinger**
 
 ### Repelled ({v:Hard})
-| XP: 30 - 300
+| XP: 150 - 600
 | Time: 30s
 | Required Gear: **RepellantLauncher**
 
 ### Sidelines ({v:Hard})
-| XP: 30 - 300
+| XP: 120 - 500
 | Time: 30s
 
 ### Gap-Cross ({v:Hard})
@@ -317,133 +319,133 @@ FinalXP = floor(XP)
 | Time: 25s
 
 ### Climb High ({v:Hard})
-| XP: 40 - 400
+| XP: 120 - 700
 | Time: 45s
 | Required Gear: **Claws**
 
 ### Longshot ({v:Hard})
-| XP: 40 - 400
+| XP: 140 - 700
 | Time: 45s
 
 ### Avenue Crossing ({v:Intermediate})
-| XP: 20 - 200
+| XP: 30 - 300
 | Time: 30s
 
 ### Short-Distance ({v:Intermediate})
-| XP: 20 - 200
+| XP: 20 - 150
 | Time: 30s
 
 ### To The Fortress ({v:Hard})
-| XP: 40 - 400
+| XP: 100 - 600
 | Time: 30s
 
 ### Weighted-Run ({v:Hard})
-| XP: 60 - 600
+| XP: 100 - 1500
 | Time: 50s
 | Required Gear: **WeightPack**
 
 ### Rebound ({v:Hard})
-| XP: 40 - 400
+| XP: 300 - 600
 | Time: 30s
 
 ### Work-Around ({v:Hard})
-| XP: 40 - 400
+| XP: 140 - 800
 | Time: 40s
 
 ### The Elite Trial ({v:Elite})
-| XP: 100 - 2000
+| XP: 500 - 1500
 | Time: 60s
 
 ### Short Sprint ({v:Easy})
-| XP: 10 - 100
+| XP: 30 - 300
 | Time: 20s
 
 ### Itinerant ({v:Intermediate})
-| XP: 20 - 200
+| XP: 30 - 350
 | Time: 15s
 
 ### Up-Down Dash ({v:Hard})
-| XP: 30 - 300
+| XP: 150 - 1000
 | Time: 25s
 | Required Gear: **Dasher**
 
 ### Wrong Way ({v:Hard})
-| XP: 100 - 1000
+| XP: 200 - 1500
 | Time: 30s
 
 ### Heights ({v:Hard})
-| XP: 50 - 500
+| XP: 300 - 1500
 | Time: 40s
 | Required Gear: **Claws**
 | Type: Default
 
 ### Weaving ({v:Hard})
-| XP: 50 - 500
+| XP: 120 - 600
 | Time: 30s
 
 ### Upper-Boost ({v:Hard})
-| XP: 40 - 400
+| XP: 100 - 800
 | Time: 20s
 
 ### The Escape ({v:Intermediate})
-| XP: 25 - 250
+| XP: 40 - 400
 | Time: 30s
 | Type: Escape
 
 ### Your Own Way ({v:Hard})
-| XP: 50 - 500
+| XP: 100 - 500
 | Time: 50s
 | Type: Escape
 
 ### Any Slope ({v:Intermediate})
-| XP: 20 - 200
+| XP: 20 - 250
 | Time: 25s
 | Type: Escape
 
 ### Wall-Dodge ({v:Hard})
-| XP: 40 - 400
+| XP: 100 - 600
 | Time: 25s
 | Type: Escape
 
 ### Route Escape ({v:Challenging})
-| XP: 60 - 600
+| XP: 120 - 800
 | Time: 30s
 | Type: Escape
 
 ### Scaffold ({v:Advanced})
-| XP: 80 - 800
+| XP: 300 - 1500
 | Time: 45s
 | Type: Default
 
 ### Destiny ({v:Elite})
-| XP: 250 - 2500
+| XP: 1000 - 5000
 | Time: 60s
 | Type: Default
 
 ### Powerhop ({v:Advanced})
-| XP: 80 - 800
+| XP: 300 - 1500
 | Time: 60s
 | Type: Default
 
 ### Through the Valley ({v:Hard})
-| XP: 50 - 500
+| XP: 130 - 700
 | Time: 45s
 | Type: Escape
 
-### Kaboom ({v:Intermediate})
-| XP: 30 - 300
+### Not Kaboom ({v:Intermediate})
+| XP: 50 - 400
 | Time: 15s
 | Required Gear: **Dasher**
 | Type: Default
 
 ### WHAT IS THIS!? ({v:Arduous})
-| XP: 1500 - 15000
+| XP: 2000 - 9000
 | Time: 70s
 | Required Gear: **Dasher**
 | Type: Default
 
 ### Don't Get a Concussion ({v:Arduous})
-| XP: 1500 - 15000
+| XP: 2000 - 8000
 | Time: 70s
 | Required Gear: **Dasher**
 | Type: Default
@@ -454,118 +456,327 @@ FinalXP = floor(XP)
 | Type: Default
 
 ### Pokey ({v:Hard})
-| XP: 30 - 300
+| XP: 90 - 500
 | Time: 30s
 | Type: Default
 
 ### Action-Packed ({v:Advanced})
-| XP: 30 - 300
+| XP: 600 - 3000
 | Time: 60s
 | Required Gear: **RopeSwinger**
 | Type: Default
 
 ### Holey Moley ({v:Challenging})
-| XP: 60 - 600
+| XP: 180 - 800
 | Time: 60s
 | Type: Default
 
 ### Spare Time ({v:Hard})
-| XP: 30 - 300
+| XP: 250 - 1500
 | Time: 30s
 | Required Gear: **Accelerator**
 | Type: Default
 
 ### Quantum Crossing ({v:Hard})
-| XP: 30 - 300
+| XP: 180 - 1000
 | Time: 30s
 | Required Gear: **Accelerator**
 | Type: Default
 
 ### Easy Time Trial ({v:Hard})
-| XP: 30 - 300
+| XP: 160 - 900
 | Time: 30s
 | Required Gear: **Refractralizer**
 | Type: Default
 
 ### Through the View ({v:Challenging})
-| XP: 300 - 3000
+| XP: 800 - 3500
 | Time: 45s
 | Type: Default
 
 ### Path-Creator ({v:Challenging})
-| XP: 400 - 4000
+| XP: 600 - 3000
 | Time: 60s
 | Type: Default
 
 ### Risky Route ({v:Hard})
-| XP: 60 - 600
+| XP: 120 - 900
 | Time: 30s
 | Type: Default
 
 ### Alleyway ({v:Hard})
-| XP: 60 - 600
+| XP: 100 - 800
 | Time: 30s
 | Type: Default
 
 ### Dropdown Heaven ({v:Challenging})
-| XP: 120 - 1200
+| XP: 200 - 800
 | Time: 45s
 | Type: Default
 
 ### Nexus Gap ({v:Hard})
-| XP: 100 - 1000
+| XP: 400 - 1000
 | Time: 30s
 | Type: Default
 
 ### Difficult Climbing ({v:Challenging})
-| XP: 300 - 3000
+| XP: 600 - 3500
 | Time: 60s
 | Required Gear: **Claws**
 | Type: Default
 
 ### Over There ({v:Challenging})
-| XP: 300 - 3000
+| XP: 500 - 2500
 | Time: 60s
 | Required Gear: **RepellantLauncher**
 | Type: Default
 
 ### Riser ({v:Challenging})
-| XP: 300 - 3000
+| XP: 800 - 3500
 | Time: 60s
 | Type: Default
 
 ### Nitrous ({v:Hard})
-| XP: 40 - 400
+| XP: 200 - 1200
 | Time: 30s
 | Required Gear: **Accelerator**
 | Type: Default
 
 ### Similar Architecture ({v:Hard})
-| XP: 40 - 400
+| XP: 200 - 1000
 | Time: 30s
 | Type: Default
 
 ### Mind Breaker ({v:Challenging})
-| XP: 150 - 1500
+| XP: 800 - 2000
 | Time: 30s
 | Type: Default
 
 ### Wrap Challenge ({v:Challenging})
-| XP: 150 - 1500
+| XP: 400 - 2000
 | Time: 30s
 | Type: Default
 
 ### Too Easy ({v:Hard})
-| XP: 40 - 400
+| XP: 120 - 600
 | Time: 25s
 | Type: Default
 
 ### Distance Testing ({v:Challenging})
-| XP: 80 - 800
+| XP: 300 - 800
 | Time: 25s
 | Type: Default
 
 ### Scenic Route ({v:Challenging})
-| XP: 125 - 1250
+| XP: 300 - 1200
 | Time: 30s
+| Type: Default
+
+### Perplexed ({v:Hard})
+| XP: 140 - 600
+| Time: 30s
+| Type: Default
+
+### Gap-Dasher ({v:Hard})
+| XP: 100 - 500
+| Time: 30s
+| Type: Default
+
+### Mechanical Harmony ({v:Challenging})
+| XP: 500 - 1500
+| Time: 30s
+| Type: Default
+
+### GET DUNKED ON ({v:Intermediate})
+| XP: 10 - 200
+| Time: 20s
+| Required Gear: **Accelerator**
+| Type: Default
+
+### Bullet Shifter ({v:Challenging})
+| XP: 1000 - 3500
+| Time: 30s
+| Type: Default
+
+### Speed-Cramp ({v:Hard})
+| XP: 100 - 500
+| Time: 25s
+| Type: Default
+
+### Contester ({v:Challenging})
+| XP: 500 - 2500
+| Time: 30s
+| Type: Default
+
+### Way of The Fins ({v:Challenging})
+| XP: 1000 - 4500
+| Time: 45s
+| Required Gear: **Fins**
+| Type: Default
+
+### Elite Guardian ({v:Arduous})
+| XP: 2000 - 7000
+| Time: 60s
+| Required Gear: **Accelerator**
+| Type: Default
+
+### Soar Through Skies ({v:Elite})
+| XP: 1500 - 6000
+| Time: 45s
+| Required Gear: **Fins**
+| Type: Default
+
+### Fins For Life ({v:Challenging})
+| XP: 1500 - 3500
+| Time: 45s
+| Required Gear: **Fins**
+| Type: Default
+
+### Three Pointer ({v:Challenging})
+| XP: 300 - 1500
+| Time: 60s
+| Required Gear: **Refractralizer**
+| Type: Default
+
+### Magneliner ({v:Challenging})
+| XP: 400 - 2500
+| Time: 50s
+| Required Gear: **Magnetizer**
+| Type: Default
+
+### nomeD-deepS ({v:Advanced})
+| XP: 150 - 600
+| Time: 30s
+| Type: Default
+
+### D10 Crossing ({v:Advanced})
+| XP: 150 - 600
+| Time: 30s
+| Type: Default
+
+### Winding Path ({v:Challenging})
+| XP: 200 - 800
+| Time: 30s
+| Type: Default
+
+### Success ({v:Elite})
+| XP: 400 - 2000
+| Time: 45s
+| Type: Default
+
+### Routing ({v:Advanced})
+| XP: 300 - 1000
+| Time: 30s
+| Required Gear: **Accelerator**
+| Type: Route
+
+### Capture The Flag ({v:Advanced})
+| XP: 200 - 750
+| Time: 30s
+| Type: Route
+
+### Up Above ({v:Challenging})
+| XP: 300 - 1500
+| Time: 45s
+| Required Gear: **PlanarConverter**
+| Type: Default
+
+### Passing ({v:Challenging})
+| XP: 300 - 1500
+| Time: 45s
+| Required Gear: **Accelerator**
+| Type: Default
+
+### Elevator ({v:Intermediate})
+| XP: 100 - 300
+| Time: 30s
+| Required Gear: **ExoGrips**
+| Type: Default
+
+### The Highrise ({v:Elite})
+| XP: 500 - 2250
+| Time: 45s
+| Type: Default
+
+### Nostalgic Gap ({v:Challenging})
+| XP: 300 - 1500
+| Time: 45s
+| Type: Default
+
+### Puddle ({v:Challenging})
+| XP: 300 - 1500
+| Time: 60s
+| Type: Default
+
+### Around The Spire ({v:Intermediate})
+| XP: 100 - 300
+| Time: 40s
+| Type: Route
+
+### Through The Loop ({v:Challenging})
+| XP: 300 - 1500
+| Time: 60s
+| Required Gear: **RopeSwinger**
+| Type: Default
+
+### Down The Complex ({v:Elite})
+| XP: 300 - 1500
+| Time: 60s
+| Type: Route
+
+### Up The View-Point ({v:Advanced})
+| XP: 250 - 1250
+| Time: 60s
+| Required Gear: **Claws**
+| Type: Default
+
+### Cross Downtown ({v:Hard})
+| XP: 250 - 750
+| Time: 45s
+| Type: Route
+
+### Cascading Down ({v:Challenging})
+| XP: 300 - 1500
+| Time: 30s
+| Type: Default
+
+### Worldbuilder ({v:Challenging})
+| XP: 300 - 1500
+| Time: 30s
+| Type: Default
+
+### Bulleter ({v:Challenging})
+| XP: 300 - 1500
+| Time: 30s
+| Type: Default
+
+### Into The Rain ({v:Challenging})
+| XP: 300 - 1500
+| Time: 45s
+| Type: Default
+
+### Across The Rain ({v:Challenging})
+| XP: 300 - 1500
+| Time: 30s
+| Type: Default
+
+### Jump Start ({v:Challenging})
+| XP: 300 - 1500
+| Time: 45s
+| Required Gear: **ExplosionMaterializer**
+| Type: Default
+
+### Grass Crosser ({v:Challenging})
+| XP: 1000 - 3500
+| Time: 50s
+| Type: Default
+
+### Desolation ({v:Challenging})
+| XP: 1000 - 3500
+| Time: 60s
+| Type: Default
+
+### Large Gaps ({v:Challenging})
+| XP: 1000 - 3500
+| Time: 55s
 | Type: Default

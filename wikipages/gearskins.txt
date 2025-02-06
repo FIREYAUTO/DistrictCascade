@@ -28,7 +28,11 @@ Glitch Dasher ({rc:Exclusive})
 | Description: Glitched, but it somehow still works
 Karmas Dasher ({rc:Mythical})
 | Description: An extremely powerful modified dasher built for space travel... if you can get that high
-| Designers: @TLK_KARMA2000
+| Designers: @TLK_KARMA
+Karmas Dasher V2 ({rc:Exotic})
+| Description: NOW WITH REWORKED AUDIO!!!
+| Designers: @TLK_KARMA
+Firey's Custom Dasher ({rc:Exclusive})
 ```
 {hr}
 ## Magnetizer
@@ -39,8 +43,10 @@ True Golden Magnetizer ({rc:Epic})
 Crystalizer ({rc:Mythical})
 | Description: Oddly satisfying
 Shard Diffractor ({rc:Legendary})
-| Designers: @35DEIVAI
+| Designers: @WindowsEliteHQ
 Blue Magnetizer ({rc:Rare})
+Spinning Chip ({rc:Mythical})
+| Description: THE SPINNING CHIP!!
 ```
 {hr}
 ## Rope Swinger
@@ -84,6 +90,10 @@ Hellslinger ({rc:Legendary})
 DIY Slinger ({rc:Epic})
 | Description: Batteries Not Included
 | Designers: @mrkittycat13
+EctoPlasmic Slinger ({rc:Epic})
+| Description: If you listen closely, you can hear a spirit trapped inside.
+| Season: Halloween
+| Designers: @mrkittycat13
 ```
 {hr}
 ## Charge Gauntlet
@@ -98,6 +108,9 @@ Refractured ({rc:Exotic})
 Restructured ({rc:Exotic})
 | Description: This prototype was found in D10, It seems to be an alternative to the 'Charge Gauntlet'.\n Exclusivity to Sherisma's Birthday Event!
 | Designers: @SherismaTheSergal
+Karmas Charge Gauntlet ({rc:Legendary})
+| Description: "You could probably destroy a building with this thing if you weren't careful"
+| Designers: @TLK_KARMA
 ```
 {hr}
 ## Claws
@@ -112,7 +125,7 @@ Aquatic Claws ({rc:Legendary})
 Downpour Claws ({rc:Legendary})
 | Designers: @Rainyyz
 Dual Crowbars ({rc:Epic})
-| Designers: @35DEIVAI
+| Designers: @WindowsEliteHQ
 Hard-Light Claws ({rc:Legendary})
 | Description: A set of custom-made hard-light claws replicating those of a local internet influencer
 | Designers: @mom0367
@@ -142,7 +155,7 @@ Purple Repellant Launcher ({rc:Uncommon})
 Green Repellant Launcher ({rc:Uncommon})
 Cataclysmic Launcher ({rc:Mythical})
 | Description: Might explode... Might send you to the sky...
-| Designers: @35DEIVAI
+| Designers: @WindowsEliteHQ
 Repellant Launcher V2 ({rc:Exclusive})
 | Description: Sorry about v0.75
 Red White & Blue Repellant Launcher ({rc:Common})
@@ -161,6 +174,12 @@ Confetti Launcher ({rc:Rare})
 Snowball Launcher ({rc:Common})
 | Description: Snowball fight!
 | Season: Christmas
+Bloxxer Blaster ({rc:Legendary})
+| Description: hope there isn't any ducks around, it'd be a shame to get my bloxxer blaster dirty
+| Designers: @mrkittycat13
+Thermo-Arcanum Energy Launcher ({rc:Mythical})
+| Description: Shoots out a ball of concentrated Thermo-Arcane energy, it doesn't seem to hurt you and feels slighty warm. Perfect for uses winter!
+| Designers: @TheOrangeBlaster
 ```
 {hr}
 ## Turbines
@@ -172,9 +191,21 @@ Venom Extenders ({rc:Legendary})
 {hr}
 ## Exo-Grips
 ```
-Golden Exo-Grips ({rc:Rare})
 Mechanical Arms ({rc:Exclusive})
 | Description: Congrats! Only one user has this skin
+Void Grips ({rc:Legendary})
+Golden Exo-Grips ({rc:Rare})
+Brewed Grips ({rc:Legendary})
+| Description: "How can you even climb with that on your hands? but halloween."
+| Season: Halloween
+| Designers: @TLK_KARMA
+Lava Grips ({rc:Mythical})
+| Description: "How can you even climb with that on your hands?"
+| Designers: @TLK_KARMA
+Frozen Grips ({rc:Mythical})
+| Description: Frozen solid
+| Season: Christmas
+| Designers: @TLK_KARMA
 ```
 {hr}
 ## Zipline Thrower
@@ -185,8 +216,12 @@ Golden Zipline Thrower ({rc:Rare})
 ## Shield Field
 ```
 Futuristic Shield ({rc:Legendary})
-| Designers: @35DEIVAI
+| Designers: @WindowsEliteHQ
 Golden Shield Field ({rc:Rare})
+Freezing Field ({rc:Epic})
+| Description: HEY! WHERE DID OUR BLOCK OF ICE GO?!?  Suspiciously block of ice shaped shield field:
+| Season: Christmas
+| Designers: @WMithFrait
 ```
 {hr}
 ## Supersonic Gauntlet
@@ -200,7 +235,7 @@ Fighting Gloves ({rc:Legendary})
 | Designers: @bloodied_net
 God's Fist ({rc:Mythical})
 | Description: This holds immense amount of power...
-| Designers: @35DEIVAI
+| Designers: @WindowsEliteHQ
 ```
 {hr}
 ## Wall Bouncer
@@ -228,6 +263,14 @@ Kitty's Refract ({rc:Mythical})
 District Says ({rc:Legendary})
 | Description: I LOVE DISTRICT SAYS, for legal reasons I can't say simon. By the way I broke the yellow button, my bad
 | Designers: @mrkittycat13
+Kitty's Retro Refract ({rc:Mythical})
+| Description: Dude I just had the greatest idea, what if I shoved a nintendo power gauntlet into a refractralizer
+| Designers: @mrkittycat13
+Prophet's Refractralizer ({rc:Exclusive})
+| Description: It's said to be irradiated with the power of a god
+Karmas Refractalizer ({rc:Exotic})
+| Description: An extremely powerful prototype of an improved refractalizer, using plasma cores as an energy source.
+| Designers: @TLK_KARMA
 ```
 {hr}
 ## Accelerator
@@ -236,31 +279,96 @@ OG Accelerator ({rc:Epic})
 | Description: The original model concept for Accelerator
 Yellow Accelerator ({rc:Epic})
 | Description: Fun Fact. The default was modelled by the creator of this skin
-| Designers: @TLK_KARMA2000
+| Designers: @TLK_KARMA
 Blue Accelerator ({rc:Epic})
 | Description: Fun Fact. The default was modelled by the creator of this skin
-| Designers: @TLK_KARMA2000
+| Designers: @TLK_KARMA
 Pink Accelerator ({rc:Epic})
 | Description: Fun Fact. The default was modelled by the creator of this skin
-| Designers: @TLK_KARMA2000
+| Designers: @TLK_KARMA
 Golden Accelerator ({rc:Legendary})
 | Description: SHINY
-| Designers: @TLK_KARMA2000
+| Designers: @TLK_KARMA
 Orange Accelerator ({rc:Epic})
 | Description: Fun Fact. The default was modelled by the creator of this skin
-| Designers: @TLK_KARMA2000
+| Designers: @TLK_KARMA
 Purple Accelerator ({rc:Epic})
 | Description: Fun Fact. The default was modelled by the creator of this skin
-| Designers: @TLK_KARMA2000
+| Designers: @TLK_KARMA
 Red Accelerator ({rc:Epic})
 | Description: Fun Fact. The default was modelled by the creator of this skin
-| Designers: @TLK_KARMA2000
+| Designers: @TLK_KARMA
 Firey's Accelerator ({rc:Exotic})
 | Description: Fun Fact. The default accelerator was modelled by the creator of this skin
-| Designers: @TLK_KARMA2000
+| Designers: @TLK_KARMA
 Karma's Accelerator ({rc:Exotic})
 | Description: Fun Fact. The default accelerator was modelled by the creator of this skin
-| Designers: @TLK_KARMA2000
+| Designers: @TLK_KARMA
+Owner Accelerator ({rc:Exclusive})
+Trial Accelerator ({rc:Exclusive})
+| Description: One of the rewards for obtaining  5000 trial score, have fun with your bragging rights.
+| Designers: @TLK_KARMA
+Time Accelerator ({rc:Exclusive})
+| Description: One of the rewards for getting 250+ hours of play time, have fun with your bragging rights.
+| Designers: @TLK_KARMA
+Rediscovered Accelerator ({rc:Exclusive})
+| Description: One of the rewards for finding 1000 lost objects, have fun with your bragging rights.
+| Designers: @TLK_KARMA
+Persistence Accelerator ({rc:Exclusive})
+| Description: One of the rewards for getting an hour and a half long combo, have fun with your bragging rights.
+| Designers: @TLK_KARMA
+Elite Accelerator ({rc:Exclusive})
+| Description: One of the rewards for obtaining  the 'Elite' title, have fun with your bragging rights.
+| Designers: @TLK_KARMA
+Cascadian Accelerator ({rc:Exclusive})
+| Description: One of the rewards for making it to level 500, have fun with your bragging rights.
+| Designers: @TLK_KARMA
+Advanced Accelerator ({rc:Exclusive})
+| Description: One of the rewards of finding many hard to obtain crafting materials, have fun with your bragging rights.
+| Designers: @TLK_KARMA
+```
+{hr}
+## Exo-Claws
+```
+Golden Exo-Claws ({rc:Rare})
+Virtual Exo-Claws ({rc:Legendary})
+Dark Virtual Exo-Claws ({rc:Legendary})
+```
+{hr}
+## Blackhole Destablizer
+```
+Golden Blackhole Destablizer ({rc:Epic})
+Anti Matter Destabilizer ({rc:Mythical})
+| Description: Quantum Physics Engineers worked overtime to make this design, only for their facility to fall after being discovered by the CRA, handle with caution. (idea from ArchangelUltra)
+| Designers: @mrkittycat13
+```
+{hr}
+## Objectilizer
+```
+Spawn Orb ({rc:Epic})
+| Description: The power of the Spawn Orb flows within you
+Red Spawn Orb ({rc:Legendary})
+| Description: The power of the Spawn Orb flows within you, this time in red
+B-Tools ({rc:Legendary})
+| Description: :btools me
+True Spawn Orb ({rc:Mythical})
+| Description: The power of the Spawn Orb flows within you, this time in green
+```
+{hr}
+## Weapon
+```
+Demonic Scythe ({rc:Exclusive})
+| Description: Slash your foes!
+Longsword ({rc:Rare})
+| Description: Slash your foes!
+Phoenix Slicer ({rc:Mythical})
+| Description: Slash your foes!
+Bronze Sword ({rc:Common})
+| Description: Slash your foes!
+Gold Sword ({rc:Uncommon})
+| Description: Slash your foes!
+Gold Longsword ({rc:Epic})
+| Description: Slash your foes!
 ```
 {hr}
 ## Dasher Enhancer
@@ -269,7 +377,7 @@ Dasher Enhancer X02 ({rc:Uncommon})
 Dasher Enhancer X03 ({rc:Rare})
 Dasher Enhancer X04 ({rc:Epic})
 Triple A Battery Enhancer ({rc:Epic})
-| Designers: @35DEIVAI
+| Designers: @WindowsEliteHQ
 Dasher Enhancer X05 ({rc:Rare})
 Cherry Blossom Garden ({rc:Legendary})
 | Description: A very pretty garden to power your very pretty dasher!
@@ -288,6 +396,10 @@ Venom Core ({rc:Legendary})
 Air Slicers ({rc:Rare})
 | Description: Fly far, my friend!
 | Season: 1MEvent
+Christmas Light Wings ({rc:Legendary})
+| Description: Pretty christmas lights!
+| Season: Christmas
+| Designers: @kittykitty1meowmeow
 ```
 {hr}
 ## Control Plate
@@ -298,10 +410,12 @@ Green Control Plate ({rc:Common})
 Golden Control Plate ({rc:Uncommon})
 All-Natural Control Plate ({rc:Epic})
 Control Plate Frame ({rc:Legendary})
-| Designers: @35DEIVAI
+| Designers: @WindowsEliteHQ
 Shady Generator ({rc:Legendary})
 | Description: A control plate that's based on deisel power, I'm sure a lot a of thought went into user safety!
 | Designers: @OverwhelmingDistress
+Prophet's Control Plate ({rc:Exclusive})
+| Description: It's said to be irradiated with the power of a god
 ```
 {hr}
 ## Springboard Deployer
@@ -320,7 +434,7 @@ Plate Deployer ({rc:Legendary})
 | Description: Provided by the Plates Insurance Advisors
 Pad Suitcase ({rc:Epic})
 | Description: Bussinessmen always have a few pads with them
-| Designers: @35DEIVAI
+| Designers: @WindowsEliteHQ
 ```
 {hr}
 ## Grip Plate
@@ -367,6 +481,9 @@ Golden Downwards Charger ({rc:Rare})
 Conception's Order ({rc:Epic})
 | Description: A prototype found at a D-8 gear facility. It seemed to only have one purpose.
 | Designers: @SherismaTheSergal
+Thermo-Arcanum Charger ({rc:Mythical})
+| Description: Possibily the first contraption to utilise the archaic Thermo-Arcane reactor technology. Seems to pre-date other gears you own
+| Designers: @TheOrangeBlaster
 ```
 {hr}
 ## Anti-Gravity Pulser
@@ -405,10 +522,14 @@ Futuristic Pusher ({rc:Legendary})
 ```
 Golden Planar Converter ({rc:Uncommon})
 God's Planar ({rc:Mythical})
-| Designers: @35DEIVAI
+| Designers: @WindowsEliteHQ
 Disrupt_R ({rc:Exotic})
 | Description: Something about this just seems wrong...
 | Designers: @bloodied_net
+Witches Cauldron ({rc:Legendary})
+| Description: you probably shouldnt be drinking this stuff, yet you do anyway.
+| Season: Halloween
+| Designers: @TLK_KARMA
 ```
 {hr}
 ## Induction Thruster
@@ -424,12 +545,26 @@ Refract Converter ({rc:Epic})
 Kitty's Converter ({rc:Mythical})
 | Description: Great for impersonating staff!
 | Designers: @mrkittycat13
+Kitty's Retro Converter ({rc:Mythical})
+| Description: With this device you'll always feel the noize.
+| Designers: @mrkittycat13
+```
+{hr}
+## Preserver
+```
+Golden Preserver ({rc:Epic})
+Crystal Heart ({rc:Legendary})
+| Description: The energy core of an old mining golem, fashioned around a potent crystal. The crystal's energy can be channeled to launch the bearer forward at dangerous speeds.
+| Designers: @ooofboizE & @adamekcz1122
+Owner Preserver ({rc:Exclusive})
 ```
 {hr}
 ## Battery Pack
 ```
 Red Battery Pack ({rc:Common})
 Golden Battery Pack ({rc:Uncommon})
+Solar Powered Battery ({rc:Epic})
+| Description: The sun charges me
 ```
 {hr}
 ## Dasher Battery
@@ -438,7 +573,7 @@ Dasher Battery X02 ({rc:Uncommon})
 Dasher Battery X03 ({rc:Rare})
 Dasher Battery X04 ({rc:Epic})
 Triple A Batteries ({rc:Epic})
-| Designers: @35DEIVAI & @DARKTOBIPIE
+| Designers: @WindowsEliteHQ & @DARKTOBIPIE
 Fractured Delta ({rc:Mythical})
 | Designers: @SherismaTheSergal
 Dasher Battery X05 ({rc:Rare})
@@ -481,7 +616,7 @@ Plank Stepper ({rc:Mythical})
 | Designers: @SolsticeThatPhoenix
 God's Field ({rc:Mythical})
 | Description: WARNING: Releasing this much power might crush you...
-| Designers: @35DEIVAI
+| Designers: @WindowsEliteHQ
 Grave Stepper ({rc:Uncommon})
 | Description: You feel a cold shiver up your spine, as if someone is walking across your grave...
 | Season: Halloween
@@ -496,7 +631,7 @@ Bloody's Propeller ({rc:Legendary})
 | Description: Forever slipping on your own blood, fun!
 | Designers: @bloodied_net
 Explosive Mortar ({rc:Legendary})
-| Designers: @35DEIVAI
+| Designers: @WindowsEliteHQ
 Firecracker Mishap ({rc:Epic})
 | Description: Didn't your parents warn you not to play with firecrackers? Apparently the explosions from these firecrackers provide the same propulsion as a high-powered rocket?
 | Season: July4th
@@ -507,6 +642,8 @@ Refract Propeller ({rc:Legendary})
 Kitty's Propeller ({rc:Mythical})
 | Description: Great for impersonating staff!
 | Designers: @mrkittycat13
+Prophet's Rocket Propeller ({rc:Exclusive})
+| Description: It's said to be irradiated with the power of a god
 ```
 {hr}
 ## Health Shot
@@ -553,7 +690,7 @@ Green Booster ({rc:Uncommon})
 Blue Booster ({rc:Uncommon})
 Helical Engines ({rc:Legendary})
 | Description: Some advanced looking thruster...
-| Designers: @35DEIVAI
+| Designers: @WindowsEliteHQ
 Devil Pace ({rc:Epic})
 | Description: It's a refrence to something, I just don't remember
 | Designers: @bloodied_net & @Red_Ience
@@ -579,7 +716,26 @@ Golden Adhesive Shoes ({rc:Epic})
 ```
 God's Capacitor ({rc:Mythical})
 | Description: Can contain immense amount of power at once...
-| Designers: @35DEIVAI
+| Designers: @WindowsEliteHQ
+```
+{hr}
+## Power Steps
+```
+Kitty's Retro Steps ({rc:Mythical})
+| Description: The coolest LED lights as well as built in springs so you can jump further and not shatter your legs.
+| Designers: @mrkittycat13
+```
+{hr}
+## Air Thruster
+```
+Golden Air Thruster ({rc:Rare})
+Red Air Thruster ({rc:Uncommon})
+Blue Air Thruster ({rc:Uncommon})
+Green Air Thruster ({rc:Uncommon})
+Owner Air Thruster ({rc:Exclusive})
+Thermo-Arcanum Thruster ({rc:Mythical})
+| Description: Utilising surplus pressure from the Thermo-Arcane reactor to propel you forward. Be careful of the hot steam!
+| Designers: @TheOrangeBlaster
 ```
 {hr}
 ## Ultra Bar Lights
@@ -599,7 +755,7 @@ Pink Ultra Bar Lights ({rc:Uncommon})
 Orange Ultra Bar Lights ({rc:Uncommon})
 Spy Camera ({rc:Legendary})
 | Description: D9 - Surveillance reference!?!?
-| Designers: @35DEIVAI
+| Designers: @WindowsEliteHQ
 Light Beam ({rc:Legendary})
 | Description: Protect yourself at all costs!
 | Designers: @ImaginativeLA
@@ -631,9 +787,80 @@ Lava's Cat ({rc:Exclusive})
 Jolly Snowman ({rc:Common})
 | Description: Festive cheer 99.9% guaranteed! (no refunds)
 | Season: Christmas
-Karma's Aura ({rc:Exclusive})
+Karma's Aura ({rc:Mythical})
 | Description: Karma's exclusive skin, as a request from my commission to them
-| Designers: @TLK_KARMA2000
+| Designers: @TLK_KARMA
+Ada's Wings ({rc:Exclusive})
+| Description: "MAN I LOVE DRAGONFLIES" - probably Ada
+| Designers: @TLK_KARMA
+Bruhus' Aura ({rc:Exclusive})
+| Description: MY HANDS ARE ON FIREEEEEE-
+| Designers: @TLK_KARMA
+Karma's Aura V2 ({rc:Exclusive})
+| Description: The aura gifted to TLK_KARMA2000 for the commission done for the owner of the game
+| Designers: @TLK_KARMA
+Kitty's 3D Glasses ({rc:Mythical})
+| Description: Oh cool, I was wondering where I lost these.
+| Designers: @mrkittycat13
+Pride Leg Warmers ({rc:Exclusive})
+| Description: For Pride!
+Bi Leg Warmers ({rc:Exclusive})
+| Description: For Pride!
+Lesbian Leg Warmers ({rc:Exclusive})
+| Description: For Pride!
+Non-Binary Leg Warmers ({rc:Exclusive})
+| Description: For Pride!
+Trans Leg Warmers ({rc:Exclusive})
+| Description: For Pride!
+Pan Leg Warmers ({rc:Exclusive})
+| Description: For Pride!
+Ace Leg Warmers ({rc:Exclusive})
+| Description: For Pride!
+Jack-O-Lantern ({rc:Epic})
+| Description: Boo! *sinister laugh*
+| Season: Halloween
+| Designers: @mrkittycat13
+Potion Belt ({rc:Legendary})
+| Description: NO WAY! YOU FOUND THE BOTTLED WITCHES BREW?
+| Season: Halloween
+| Designers: @TLK_KARMA
+Back Light ({rc:Legendary})
+| Description: Yes, I stole this from the city
+Prop Bar Lights ({rc:Legendary})
+| Description: No, I didn't steal this from the city
+Killbot ({rc:Epic})
+| Description: OMG KILLBOT FROM CI
+| Designers: @ooofboizE
+Normal Light ({rc:Exclusive})
+| Description: You fought hard to earn this. A well-deserved trophy of the Normal Boss.
+Noob Boots ({rc:Common})
+| Description: Are you jumping for Chicken or for Beef?
+Pro Boots ({rc:Rare})
+| Description: Make sure to complete your daily task
+Master Boots ({rc:Epic})
+| Description: Make sure to complete your daily task!
+Champion Boots ({rc:Legendary})
+| Description: What will you change?
+God Boots ({rc:Mythical})
+| Description: You control this civilization
+Haakinh's Tech ({rc:Exclusive})
+| Description: Silly tech moves that literally noone else will be able to do ever :3
+| Designers: @TLK_KARMA
+Azrael's Aura ({rc:Exclusive})
+| Description: Guh
+| Designers: @TLK_KARMA
+Thermo-Arcanum Bar Lights ({rc:Mythical})
+| Description: Thermo-Arcane batteries that isn't hooked onto a reactor seems gives off dim light and very stable. I sure hope it won't explode!
+| Designers: @TheOrangeBlaster
+Firey's Aura ({rc:Exotic})
+| Description: Great for impersonating the owner!
+Lumafly Lantern ({rc:Legendary})
+| Description: Crystal lantern containing a Lumafly. Brightens dark caverns so wanderers can find their way.
+| Season: Christmas
+| Designers: @adamekcz1122
+Orbiting Burger ({rc:Mythical})
+| Description: Just like Earth, you can now have your very own moon!
+| Designers: @FIREYAUTO & @1R3K0
 ```
 {hr}
 ## Bar Lights
@@ -651,7 +878,7 @@ Orange Bar Lights ({rc:Common})
 ## Crown
 ```
 Lost Crown ({rc:Exclusive})
-| Designers: @35DEIVAI
+| Designers: @WindowsEliteHQ
 Rusty Crown ({rc:Exclusive})
 | Description: Its crooked and rusty, even falling apart!
 | Designers: @bloodied_net
@@ -691,6 +918,9 @@ Combo Drink ({rc:Common})
 | Description: Do not ask me why is the glass closed
 | Season: 1MEvent
 | Designers: @adamekcz1122
+Snowglobe Bracelet ({rc:Rare})
+| Description: Look at 'em in there!
+| Season: Christmas
 ```
 {hr}
 ## XP Bracelet
@@ -706,6 +936,9 @@ XP Drink ({rc:Common})
 | Description: Do not ask me why is the glass closed
 | Season: 1MEvent
 | Designers: @adamekcz1122
+Owner Bracelet ({rc:Exclusive})
+Prophet XP Bracelet ({rc:Exclusive})
+| Description: It's said to be irradiated with the power of a god
 ```
 {hr}
 ## Shield Bracelet
@@ -724,6 +957,9 @@ Shield Drink ({rc:Common})
 | Description: Do not ask me why is the glass closed
 | Season: 1MEvent
 | Designers: @adamekcz1122
+Personal Thermo-Arcanum Unit ({rc:Mythical})
+| Description: Being in the close ploximity of pure Thermo-Arcanum energy seems to grants you additional resilience to physical trauma. Awesome!
+| Designers: @TheOrangeBlaster
 ```
 {hr}
 ## Weight Pack

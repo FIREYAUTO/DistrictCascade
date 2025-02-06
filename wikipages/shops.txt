@@ -104,7 +104,22 @@ Swinger Yank ({rprice:{cr}:50})
 Slinger Insta-Yank ({rprice:{cr}:50})
 Health Shot Health Boost ({rprice:{cr}:45})
 Swinger Realism ({rprice:{cr}:10})
-Swinger Realism+Yank ({rprice:{cr}:60})
+Repellant Switch ({rprice:{cr}:15})
+Claws Strength ({rprice:{cr}:30})
+Exo-Claws Preserver ({rprice:{cr}:70})
+Charger Charger ({rprice:{cr}:50})
+Preserver Control ({rprice:{cr}:80})
+Velocity Break Weight ({rprice:{cr}:30})
+Whitehole ({rprice:{cr}:50})
+Induction Momentum ({rprice:{cr}:30})
+Dasher Limit-Breaker ({rprice:{cr}:130})
+Charger Redirection ({rprice:{cr}:50})
+Air-Thruster Redirection ({rprice:{cr}:50})
+Extended Explosion Mag ({rprice:{cr}:250})
+```
+#### Skin Crates
+```
+Weapon Crate ({rprice:{cr}:15})
 ```
 ### Daily Items
 {hr}
@@ -170,3 +185,42 @@ Broken Claws ({rprice:{cr}:12})
 Empty Bottle ({rprice:{cr}:7})
 Phone ({rprice:{cr}:7})
 ```
+{hr}
+
+## Chill Shop
+| Located in D2
+### Regular Items
+#### Drinks
+```
+Canned District Cola ({rprice:{cr}:4})
+Immunity Pear Soda ({rprice:{cr}:8})
+Ammo Blueberry Soda ({rprice:{cr}:12})
+RNG Soda ({rprice:{cr}:6})
+```
+### Daily Items
+{hr}
+
+## Prophet Shop
+| Located in Watchers Realm
+### Regular Items
+#### Skin Crates
+```
+Arm Gear Skin Crate ({rprice:{cr}:10})
+Leg Gear Skin Crate ({rprice:{cr}:10})
+Back Gear Skin Crate ({rprice:{cr}:10})
+Cosmetic Gear Skin Crate ({rprice:{cr}:10})
+Epic Skin Crate ({rprice:{cr}:25})
+Legendary Skin Crate ({rprice:{cr}:50})
+Left Arm Gear Skin Crate ({rprice:{cr}:10})
+Mythical Skin Crate ({rprice:{cr}:80})
+Exotic Skin Crate ({rprice:{cr}:150})
+```
+#### Gear Skins
+```
+Prophet XP Bracelet ({rprice:{cr}:75})
+Prophet's Refractralizer ({rprice:{cr}:250})
+Prophet's Control Plate ({rprice:{cr}:175})
+Prophet's Rocket Propeller ({rprice:{cr}:175})
+```
+### Daily Items
+{hr}

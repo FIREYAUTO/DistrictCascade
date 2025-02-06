@@ -12,12 +12,14 @@ In total, there are around 60 spawns in the game at the moment.
 | Cliff-Side Tower (15000 XP)
 | Huh?? (50000 XP)
 
-### {(c:ff1c4a)D2 - Downtown} (5)
+### {(c:ff1c4a)D2 - Downtown} (7)
 | Central (2000 XP)
 | The View (4000 XP)
 | Hidden (3500 XP)
 | Ridge Tower (25000 XP)
 | Cityside (5000 XP)
+| Flat (1000 XP)
+| Chill Spot (1500 XP)
 
 ### {(c:0d73ff)D3 - Futura} (4)
 | City High-Rise (6000 XP)
@@ -39,14 +41,13 @@ In total, there are around 60 spawns in the game at the moment.
 | Runner Tower (8000 XP)
 | Lost (2000 XP)
 
-### {(c:04c8d3)D6 - Cascade} (7)
+### {(c:04c8d3)D6 - Cascade} (6)
 | High View (5000 XP)
 | Low View (4000 XP)
 | The Spire (4500 XP)
 | Steep Climb (4000 XP)
 | Alpha Tower (50000 XP)
 | The Valley (5000 XP)
-| Flat (5000 XP)
 
 ### {(c:f2ff00)D7 - Highrise} (6)
 | The Edge (5000 XP)
@@ -90,7 +91,40 @@ In total, there are around 60 spawns in the game at the moment.
 | Rift (6000 XP)
 | Outpost Station A (5000 XP)
 
+### {(c:229026)D14 - Quantum Gardens} (3)
+| Quantum Market (6000 XP)
+| Quantum View (10000 XP)
+| Quantum Point (6000 XP)
+
 ### {(c:296449)D15 - Garden} (3)
 | Residential (6000 XP)
 | Commerce (6000 XP)
 | Old Garden (6000 XP)
+
+### {(c:ff9b34)D16 - Nexus} (4)
+| Tiny Tower (6000 XP)
+| World View (6000 XP)
+| Nexus (6000 XP)
+| Hidden View (6000 XP)
+
+### {(c:452964)D17 - Nytra} (4)
+| Nytra View (10000 XP)
+| Nytra Low Point (6000 XP)
+| Competitor (6000 XP)
+| Where? (6000 XP)
+
+### {(c:b69de1)D18 - Flow} (3)
+| Underneath (6000 XP)
+| Down-Low (6000 XP)
+| Bounds (6000 XP)
+
+### {(c:004076)D19 - Cyber} (3)
+| Cyberwalk (6000 XP)
+| Cyberview (5500 XP)
+| Under-Cover (5500 XP)
+
+### {(c:8dff27)D20 - Limit} (4)
+| Etheria (10000 XP)
+| Sector-A (10000 XP)
+| Industria (10000 XP)
+| Skytex (10000 XP)

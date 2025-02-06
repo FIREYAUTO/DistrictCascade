@@ -151,3 +151,9 @@ Using your leg gear keybind will activate this gear, causing you to peform a dou
 ```
 Upon jumping after landing, most of your falling velocity will be converted into vertical velocity
 ```
+## Enhancer {(tag:1caf7a)Active}
+| Requires "Enhancer" Gears
+| Description:
+```
+Enhancer is a powerful gear that requires a mechanic chain after leg gear use to prevent speed loss. Back gear keybind gives a boost after this mechanic chain
+```

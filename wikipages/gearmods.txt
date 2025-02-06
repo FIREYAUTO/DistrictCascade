@@ -150,9 +150,100 @@ Health Shot will heal for more health, at the cost of a longer cooldown
 Rope Swinger will try to swing in a realisticish way
 ```
 {hr}
-## Swinger Realism+Yank ({rc:Epic})
-| Gear: RopeSwinger (Arm Gear)
+## Slinger Inf ({rc:Mythical})
+| Gear: RopeSlinger (Arm Gear)
 | Description:
 ```
-Combines Swinger Realism & Swinger Yank gear mods
+Slinger no longer has an ammo counter
+```
+{hr}
+## Refract Coolant ({rc:Mythical})
+| Gear: Refractralizer (Arm Gear)
+| Description:
+```
+Refractralizer will no longer have heat, therefore improving the functionality of the gear
+```
+{hr}
+## Repellant Switch ({rc:Rare})
+| Gear: RepellantLauncher (Arm Gear)
+| Description:
+```
+Inverts the Normal/Coil mechanics, meaning coil is default and normal is while coiled
+```
+{hr}
+## Claws Strength ({rc:Epic})
+| Gear: Claws (Arm Gear)
+| Description:
+```
+Claws only has one ammo, but is much stronger
+```
+{hr}
+## Exo-Claws Preserver ({rc:Legendary})
+| Gear: ExoClaws (Arm Gear)
+| Description:
+```
+Exo-Claws will now give you back your entry HV upon the end of the gear usage, in any planar horizontal direction you are looking towards
+```
+{hr}
+## Preserver Control ({rc:Mythical})
+| Gear: Preserver (Back Gear)
+| Description:
+```
+Preserver allows you to redirect the velocity slightly while in use, at the cost of less fuel
+```
+{hr}
+## Charger Charger ({rc:Legendary})
+| Gear: DownwardsCharger (Back Gear)
+| Description:
+```
+Downwards Charger will be given additional HV upon use
+```
+{hr}
+## Velocity Break Weight ({rc:Epic})
+| Gear: VelocityBreak (Leg Gear)
+| Description:
+```
+Velocity Break will now force you downwards faster rather than halt your velocity
+```
+{hr}
+## Whitehole ({rc:Legendary})
+| Gear: BlackholeDestablizer (Arm Gear)
+| Description:
+```
+Blackhole Destablizer is now a white hole, expelling you instead
+```
+{hr}
+## Induction Momentum ({rc:Epic})
+| Gear: InductionThruster (Back Gear)
+| Description:
+```
+Induction Thruster will now keep horizontal velocity, while still converting it to vertical
+```
+{hr}
+## Dasher Limit-Breaker ({rc:Mythical})
+| Gear: Dasher (Arm Gear)
+| Description:
+```
+Your dasher's speed-cap limit is removed, giving you full advantage over your gear
+```
+{hr}
+## Charger Redirection ({rc:Epic})
+| Gear: DownwardsCharger (Back Gear)
+| Description:
+```
+Downwards Charger will now shift you towards where you are looking
+```
+{hr}
+## Air-Thruster Redirection ({rc:Epic})
+| Gear: AirThruster (Leg Gear)
+| Description:
+```
+Air-Thruster will now shift you towards where you are looking
+```
+{hr}
+## Extended Explosion Mag ({rc:Mythical})
+| Gear: ExplosionMaterializer (Back Gear)
+| Description:
+```
+Explosion Materializer can now use 20 explosives instead of 3
 ```
